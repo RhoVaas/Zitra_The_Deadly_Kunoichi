@@ -1,0 +1,96 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 8105 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61803
+Successfully changed project path to: C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 116.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R5 M330 (ID=0x6660)
+    Vendor:   
+    VRAM:     2036 MB
+    Driver:   15.201.1201.0
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56548
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005442 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 113.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.025 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 108.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.166 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.48 seconds
+Refreshing native plugins compatible for Editor in 4.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 7.312400 ms (FindLiveObjects: 0.753300 ms CreateObjectMapping: 0.465200 ms MarkObjects: 5.750800 ms  DeleteObjects: 0.340200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animaciones/Correr.anim
+  artifactKey: Guid(2829c3fa048b2c842831807a863c0ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Correr.anim using Guid(2829c3fa048b2c842831807a863c0ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0206f0d41bb0b4f5bfe6c18a20407679') in 0.192715 seconds
+  Import took 0.255346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Animaciones/Parada.anim
+  artifactKey: Guid(4630f8b35f6abc94dbdd584bfc67d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Parada.anim using Guid(4630f8b35f6abc94dbdd584bfc67d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '336548979b8dcddf0cffe3014b1db871') in 0.054066 seconds
+  Import took 0.120094 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.3 MB.
+System memory in use after: 49.3 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 8.989500 ms (FindLiveObjects: 0.497800 ms CreateObjectMapping: 0.291400 ms MarkObjects: 7.698400 ms  DeleteObjects: 0.497600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
