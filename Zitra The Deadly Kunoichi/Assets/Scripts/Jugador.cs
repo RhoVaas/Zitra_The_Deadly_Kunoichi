@@ -26,7 +26,9 @@ public class Jugador : MonoBehaviour
     void Update()
     {
         Horizontal = Input.GetAxisRaw("Horizontal");
-
+        if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f,1.0f,1.0f);
+        else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f,1.0f,1.0f);
+        animator.SetBool("estaCorriendo", Horizontal != 0.0f);
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if(saltosHechos < limiteSaltos){
