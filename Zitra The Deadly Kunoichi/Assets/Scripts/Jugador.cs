@@ -11,7 +11,7 @@ public class Jugador : MonoBehaviour
     private Animator animator;
     private float Horizontal;
     int saltosHechos;
-    int limiteSaltos = 1;
+    int limiteSaltos = 2;
 
     // Start is called before the first frame update
     void Start()
