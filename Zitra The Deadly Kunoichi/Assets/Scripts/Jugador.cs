@@ -9,6 +9,7 @@ public class Jugador : MonoBehaviour
     private bool Grounded;
     private Rigidbody2D rigidbody2d;
     private Animator animator;
+    private float LastAtaque;
     private float Horizontal;
     int saltosHechos;
     int limiteSaltos = 2;
@@ -29,6 +30,7 @@ public class Jugador : MonoBehaviour
         if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f,1.0f,1.0f);
         else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f,1.0f,1.0f);
         animator.SetBool("estaCorriendo", Horizontal != 0.0f);
+        if (Time.time > LastAtaque + 1.0f) animator.SetBool("estaAtacando", false);
         
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -37,9 +39,12 @@ public class Jugador : MonoBehaviour
             saltosHechos++;
             }
 
-        } else if (Input.GetKeyDown(KeyCode.A))
+        } 
+        
+        if (Input.GetKeyDown(KeyCode.X) && Time.time > LastAtaque + 1f)
         {
             Ataque();
+            LastAtaque = Time.time;
         }
 
 

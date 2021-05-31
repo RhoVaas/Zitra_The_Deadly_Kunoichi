@@ -7,6 +7,8 @@ public class SamuraiScript : MonoBehaviour
 	public GameObject Jugador;
 	private Animator animator;
 
+	private float LastAttack;
+
 	private void Update()
 	{
 		Vector3 direction = Jugador.transform.position - transform.position;
@@ -15,10 +17,11 @@ public class SamuraiScript : MonoBehaviour
 
 		float distance = Mathf.Abs(Jugador.transform.position.x - transform.position.x);
 
-		/*if (distance < 1.0f)
+		if (distance < 1.0f && Time.time > LastAttack + 0.25f)
 		{
-			//Atacar();
-		}*/
+			Atacar();
+			LastAttack = Time.time;
+		}
 	}
 
 	private void Atacar(){
