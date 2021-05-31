@@ -6,6 +6,7 @@ public class SamuraiScript : MonoBehaviour
 {
 	public GameObject Jugador;
 	private Animator animator;
+	private GameObject vida;
 
 	private float LastAttack;
 

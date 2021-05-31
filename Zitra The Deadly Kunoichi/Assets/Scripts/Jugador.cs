@@ -58,7 +58,7 @@ public class Jugador : MonoBehaviour
         /*(new Vector2(0, fuerzaSalto));*/
     }
 
-    private void Ataque(){
+    public void Ataque(){
         animator.SetBool("estaAtacando", true);
 
     }
