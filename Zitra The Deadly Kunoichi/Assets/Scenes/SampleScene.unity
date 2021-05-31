@@ -286,7 +286,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+  m_Mesh: {fileID: 0}
 --- !u!33 &444946090
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -303,8 +303,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 444946087}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 20, y: 13, z: 1}
+  m_LocalPosition: {x: 3.21, y: 1.07, z: 0}
+  m_LocalScale: {x: 45.72, y: 19.819801, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -486,7 +486,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 986807910}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.482, y: -2.304, z: 0}
+  m_LocalPosition: {x: -5.6, y: -2.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -545,8 +545,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.1611216, y: 0.010797381}
-  m_Size: {x: 0.71503687, y: 1.4259868}
+  m_Offset: {x: -0.1611216, y: -0.067395985}
+  m_Size: {x: 0.71503687, y: 1.5823735}
   m_Direction: 0
 --- !u!114 &986807916
 MonoBehaviour:
@@ -561,7 +561,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fuerzaSalto: 350
-  velocidad: 5
+  velocidad: 7
 --- !u!1 &1042413561
 GameObject:
   m_ObjectHideFlags: 0
@@ -577,7 +577,7 @@ GameObject:
   - component: {fileID: 1042413562}
   - component: {fileID: 1042413567}
   m_Layer: 0
-  m_Name: SamuraiGrunt0
+  m_Name: Samurai
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -596,8 +596,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.045490973, y: 0.01679141}
-  m_Size: {x: 1.163116, y: 1.5147551}
+  m_Offset: {x: -0.09888672, y: -0.059645064}
+  m_Size: {x: 1.0563245, y: 1.667628}
   m_Direction: 0
 --- !u!50 &1042413563
 Rigidbody2D:
@@ -698,7 +698,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1042413561}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.7781, y: -2.2365, z: 0}
+  m_LocalPosition: {x: 0.74, y: -2.08, z: 0}
   m_LocalScale: {x: 0.9324986, y: 1.0021684, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

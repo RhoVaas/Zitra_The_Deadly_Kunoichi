@@ -29,6 +29,7 @@ public class Jugador : MonoBehaviour
         if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f,1.0f,1.0f);
         else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f,1.0f,1.0f);
         animator.SetBool("estaCorriendo", Horizontal != 0.0f);
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if(saltosHechos < limiteSaltos){
@@ -36,7 +37,11 @@ public class Jugador : MonoBehaviour
             saltosHechos++;
             }
 
+        } else if (Input.GetKeyDown(KeyCode.A))
+        {
+            Ataque();
         }
+
 
     }
 
@@ -46,6 +51,11 @@ public class Jugador : MonoBehaviour
         rigidbody2d.AddForce(Vector2.up * fuerzaSalto);
 
         /*(new Vector2(0, fuerzaSalto));*/
+    }
+
+    private void Ataque(){
+        animator.SetBool("estaAtacando", true);
+
     }
 
     private void FixedUpdate(){
