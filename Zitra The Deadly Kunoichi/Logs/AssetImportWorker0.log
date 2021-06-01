@@ -1,211 +1,1517 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 32605 MB
+OS: 'Windows 10 Home Single Language; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 8105 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-D:\Program Files\Unity\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/joaquin/Documents/GitHub/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57041
-Successfully changed project path to: C:/Users/joaquin/Documents/GitHub/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
-C:/Users/joaquin/Documents/GitHub/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+55745
+Successfully changed project path to: C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
+C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 52.18 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 270.40 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
-[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/joaquin/Documents/GitHub/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danki/OneDrive/Escritorio/U of pain/5Año/Topicos de Especialidad 2/Zitra Unity/Zitra_The_Deadly_Kunoichi/Zitra The Deadly Kunoichi/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon RX 5600 XT (ID=0x731f)
+    Renderer: AMD Radeon(TM) R5 M330 (ID=0x6660)
     Vendor:   
-    VRAM:     6103 MB
-    Driver:   27.20.21002.112
+    VRAM:     2036 MB
+    Driver:   15.201.1201.0
 Initialize mono
-Mono path[0] = 'D:/Program Files/Unity/Editor/Data/Managed'
-Mono path[1] = 'D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56928
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001780 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014049 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 363.85 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.363 seconds
+- Completed reload, in  6.926 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001395 seconds.
+Registered in 0.007069 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 48.22 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 169.62 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.171 seconds
+- Completed reload, in  5.199 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.49 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.5 MB.
-System memory in use after: 85.6 MB.
+System memory in use before: 86.2 MB.
+System memory in use after: 86.1 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2260.
-Total: 2.188200 ms (FindLiveObjects: 0.204500 ms CreateObjectMapping: 0.094100 ms MarkObjects: 1.814800 ms  DeleteObjects: 0.073500 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/Jugador.cs
-  artifactKey: Guid(c7d2d4d1ef15c47418616da8102f7327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Jugador.cs using Guid(c7d2d4d1ef15c47418616da8102f7327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51528947c881aa699ca70b483452ad0') in 0.042467 seconds
-  Import took 0.045726 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.54 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 48.6 MB.
-System memory in use after: 48.7 MB.
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2260.
-Total: 2.145500 ms (FindLiveObjects: 0.202500 ms CreateObjectMapping: 0.093100 ms MarkObjects: 1.835600 ms  DeleteObjects: 0.012900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001351 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.206 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.0 MB.
-System memory in use after: 85.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2264.
-Total: 2.442100 ms (FindLiveObjects: 0.212000 ms CreateObjectMapping: 0.093300 ms MarkObjects: 2.110700 ms  DeleteObjects: 0.024700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002752 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.066 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.0 MB.
-System memory in use after: 85.1 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2268.
-Total: 2.155700 ms (FindLiveObjects: 0.194800 ms CreateObjectMapping: 0.086700 ms MarkObjects: 1.841600 ms  DeleteObjects: 0.031200 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2258.
+Total: 5.008300 ms (FindLiveObjects: 0.367200 ms CreateObjectMapping: 0.183500 ms MarkObjects: 4.169200 ms  DeleteObjects: 0.285700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4427.614083 seconds.
-  path: Assets/Sprites/Materials/NinjaVillage_Skybox03H_8.mat
-  artifactKey: Guid(417dc58780677d34c877e2e48d43cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/Materials/NinjaVillage_Skybox03H_8.mat using Guid(417dc58780677d34c877e2e48d43cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97336714ac0ea87da9e11755e44ddd4') in 0.143501 seconds
-  Import took 0.150848 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 324.982797 seconds.
-  path: Assets/Sprites/istockphoto-1043089638-170667a.jpg
-  artifactKey: Guid(6aefc7349f8fc6141918b99da7ca2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/istockphoto-1043089638-170667a.jpg using Guid(6aefc7349f8fc6141918b99da7ca2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fbba6f91775022cd1ef5f5af6721a0c') in 0.064172 seconds
-  Import took 0.068575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1093.838862 seconds.
   path: Assets/Sprites/NinjaVillage_8_BackAsset01.png
   artifactKey: Guid(b6add465cc2c89841b4969951ae714f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites/NinjaVillage_8_BackAsset01.png using Guid(b6add465cc2c89841b4969951ae714f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2239e400d3a5946876283736c0e9f6') in 0.025932 seconds
-  Import took 0.033579 seconds .
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset01.png using Guid(b6add465cc2c89841b4969951ae714f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2cf9acf1e3d4726f8d33212d4a2179e') in 1.155785 seconds
+  Import took 1.215708 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001384 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.011 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.4 MB.
-System memory in use after: 88.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2317.
-Total: 2.421200 ms (FindLiveObjects: 0.318500 ms CreateObjectMapping: 0.104700 ms MarkObjects: 1.978600 ms  DeleteObjects: 0.017900 ms)
+Received Import Request.
+  Time since last request: 53.534242 seconds.
+  path: Assets/Sprites/arbusto.png
+  artifactKey: Guid(1635a2803f034c742ba9b78cc84902f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/arbusto.png using Guid(1635a2803f034c742ba9b78cc84902f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd3b1754291685668af1cd203e299f33') in 0.129809 seconds
+  Import took 0.181418 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001241 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.147 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.4 MB.
-System memory in use after: 88.5 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2321.
-Total: 2.330100 ms (FindLiveObjects: 0.224600 ms CreateObjectMapping: 0.110200 ms MarkObjects: 1.977300 ms  DeleteObjects: 0.016700 ms)
+Received Import Request.
+  Time since last request: 0.000778 seconds.
+  path: Assets/Sprites/Genesis 32X SCD - Deadly Moves Power Athlete - Japan.png
+  artifactKey: Guid(ef9edb53cf7c1b749a3a366e88ae5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Genesis 32X SCD - Deadly Moves Power Athlete - Japan.png using Guid(ef9edb53cf7c1b749a3a366e88ae5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936e1cd1ccc4fd13235079683fa6a68d') in 0.163154 seconds
+  Import took 0.287050 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001430 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.044 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.4 MB.
-System memory in use after: 88.5 MB.
+Received Import Request.
+  Time since last request: 0.000834 seconds.
+  path: Assets/Sprites/Genesis 32X SCD - Double Dragon III The Rosetta Stone - Mission 3 Japan.png
+  artifactKey: Guid(2f18c9cf5deede54893343db61ae8afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Genesis 32X SCD - Double Dragon III The Rosetta Stone - Mission 3 Japan.png using Guid(2f18c9cf5deede54893343db61ae8afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97f61c0658d809b66b394673ba3a91a') in 0.154423 seconds
+  Import took 0.182988 seconds .
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 2.199200 ms (FindLiveObjects: 0.198700 ms CreateObjectMapping: 0.085900 ms MarkObjects: 1.897400 ms  DeleteObjects: 0.016100 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 30.771470 seconds.
+  path: Assets/Sprites/Genesis 32X SCD - Deadly Moves Power Athlete - Japan.png
+  artifactKey: Guid(ef9edb53cf7c1b749a3a366e88ae5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Genesis 32X SCD - Deadly Moves Power Athlete - Japan.png using Guid(ef9edb53cf7c1b749a3a366e88ae5fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af82d01f8cdc446e3626f7d77cf79d85') in 0.064134 seconds
+  Import took 0.087143 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 117.729892 seconds.
+  path: Assets/Sprites/Materials/NinjaVillage_Skybox03H_8.mat
+  artifactKey: Guid(417dc58780677d34c877e2e48d43cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials/NinjaVillage_Skybox03H_8.mat using Guid(417dc58780677d34c877e2e48d43cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba357af8e98f7283b022074cfc7df7dc') in 0.374096 seconds
+  Import took 0.382221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Sprites/Materials/Samurai-Character.mat
+  artifactKey: Guid(6e27284405e4be840a3694b4ce2b19ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Materials/Samurai-Character.mat using Guid(6e27284405e4be840a3694b4ce2b19ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52534111ed03c8fdd73d89907b6d2b8') in 0.064492 seconds
+  Import took 0.091985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.288578 seconds.
+  path: Assets/Sprites/Personajes
+  artifactKey: Guid(d3beb0d7df67b4d4b924b7ef4c07940e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Personajes using Guid(d3beb0d7df67b4d4b924b7ef4c07940e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6fbe15e22ed4f5b1d2870606539cd3') in 0.010865 seconds
+  Import took 0.059490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.224769 seconds.
+  path: Assets/Sprites/HUD
+  artifactKey: Guid(580e1b8f6eea4564fb06fb483a5042d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD using Guid(580e1b8f6eea4564fb06fb483a5042d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6620d53e60792e61d3cec88fc7a2de') in 0.010611 seconds
+  Import took 0.042885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001939 seconds.
+  path: Assets/Sprites/HUD
+  artifactKey: Guid(580e1b8f6eea4564fb06fb483a5042d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD using Guid(580e1b8f6eea4564fb06fb483a5042d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6620d53e60792e61d3cec88fc7a2de') in 0.012899 seconds
+  Import took 0.022570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.818410 seconds.
+  path: Assets/Sprites/HUD/DS DSi - Okamiden - Main Screen HUD Objects.png
+  artifactKey: Guid(ddbcc9b94fceb24418a3f42eab39cef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/DS DSi - Okamiden - Main Screen HUD Objects.png using Guid(ddbcc9b94fceb24418a3f42eab39cef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7bf9b0fbb5cee64a64befbe4ab7bea') in 0.068607 seconds
+  Import took 0.109270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000781 seconds.
+  path: Assets/Sprites/HUD/PC Computer - Freedom Planet - Dialogue Box.png
+  artifactKey: Guid(850cc2794689d084fa023c94e5903860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - Freedom Planet - Dialogue Box.png using Guid(850cc2794689d084fa023c94e5903860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def264571aa1f262f856583c4ec174a1') in 0.036323 seconds
+  Import took 0.071554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Sprites/HUD/enemy_lifebar.png
+  artifactKey: Guid(2cea2cde8c87d8d40b5f286ec39b5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/enemy_lifebar.png using Guid(2cea2cde8c87d8d40b5f286ec39b5000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc03f434b832432e83af4c4f41cc087') in 0.035715 seconds
+  Import took 0.055872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Sprites/HUD/Game Boy Advance - Castlevania Circle of the Moon - HUD.png
+  artifactKey: Guid(0b899c45665e07c4abb7c83c865df99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/Game Boy Advance - Castlevania Circle of the Moon - HUD.png using Guid(0b899c45665e07c4abb7c83c865df99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb51ddc2c194a1b1f3499d1e0428004') in 0.107543 seconds
+  Import took 0.127975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Sprites/HUD/TurboGrafx-16 - Castlevania Rondo of Blood - Life Bar and Score.png
+  artifactKey: Guid(98dbef33d4d26004eb88ed24aa539948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/TurboGrafx-16 - Castlevania Rondo of Blood - Life Bar and Score.png using Guid(98dbef33d4d26004eb88ed24aa539948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e2b6abccf29923ab02ff3e4cf55494') in 0.034824 seconds
+  Import took 0.041834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Sprites/HUD/enemy_life.png
+  artifactKey: Guid(3063c07893ff9854eb2339e4f6bd46b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/enemy_life.png using Guid(3063c07893ff9854eb2339e4f6bd46b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50769db079c71edcd3f774a585b7dd57') in 0.026147 seconds
+  Import took 0.037301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/Sprites/HUD/PC Computer - SteamWorld Quest - Text Box.png
+  artifactKey: Guid(69b668152c30134409b6b2b768d11cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - SteamWorld Quest - Text Box.png using Guid(69b668152c30134409b6b2b768d11cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6efbdb5f4bea705de6bfb0cec930ba24') in 0.058967 seconds
+  Import took 0.071305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Sprites/HUD/PC Computer - Rogue Legacy - Map Icons and Controls.png
+  artifactKey: Guid(bab81c11b79e2744998a862f97a2b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - Rogue Legacy - Map Icons and Controls.png using Guid(bab81c11b79e2744998a862f97a2b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab86baf88554a3ba8ec6692af9cc07aa') in 0.043452 seconds
+  Import took 0.049039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.061407 seconds.
+  path: Assets/Sprites/HUD/Game Boy Advance - Castlevania Circle of the Moon - HUD.png
+  artifactKey: Guid(0b899c45665e07c4abb7c83c865df99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/Game Boy Advance - Castlevania Circle of the Moon - HUD.png using Guid(0b899c45665e07c4abb7c83c865df99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cd71aaa975f893b94b47ffba6f3bc5') in 0.067253 seconds
+  Import took 0.102179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.582305 seconds.
+  path: Assets/Sprites/HUD/PC Computer - Freedom Planet - Dialogue Box.png
+  artifactKey: Guid(850cc2794689d084fa023c94e5903860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - Freedom Planet - Dialogue Box.png using Guid(850cc2794689d084fa023c94e5903860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab01489b17b96ec7a0ffea0bbba2f5d') in 0.088103 seconds
+  Import took 0.127158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.246894 seconds.
+  path: Assets/Sprites/HUD/PC Computer - Rogue Legacy - Map Icons and Controls.png
+  artifactKey: Guid(bab81c11b79e2744998a862f97a2b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - Rogue Legacy - Map Icons and Controls.png using Guid(bab81c11b79e2744998a862f97a2b3c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91cb822b9333caf7202a82dc6e35554') in 0.061135 seconds
+  Import took 0.093873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.897028 seconds.
+  path: Assets/Sprites/HUD/PC Computer - SteamWorld Quest - Text Box.png
+  artifactKey: Guid(69b668152c30134409b6b2b768d11cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/PC Computer - SteamWorld Quest - Text Box.png using Guid(69b668152c30134409b6b2b768d11cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c22ee7c286b70a3ff3906e2ba08bd17') in 0.043229 seconds
+  Import took 0.070656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.191490 seconds.
+  path: Assets/Sprites/HUD/TurboGrafx-16 - Castlevania Rondo of Blood - Life Bar and Score.png
+  artifactKey: Guid(98dbef33d4d26004eb88ed24aa539948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/TurboGrafx-16 - Castlevania Rondo of Blood - Life Bar and Score.png using Guid(98dbef33d4d26004eb88ed24aa539948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49a519b89a54c9821381be39eac8db3') in 0.042275 seconds
+  Import took 0.072054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.486486 seconds.
+  path: Assets/Sprites/HUD/DS DSi - Okamiden - Main Screen HUD Objects.png
+  artifactKey: Guid(ddbcc9b94fceb24418a3f42eab39cef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/HUD/DS DSi - Okamiden - Main Screen HUD Objects.png using Guid(ddbcc9b94fceb24418a3f42eab39cef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf23671c94164d13cbeb1a7c6b0c005c') in 0.057752 seconds
+  Import took 0.079248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.547074 seconds.
+  path: Assets/Pallets/Ninja Village.prefab
+  artifactKey: Guid(adfda6f924011cc4e9715cb9deafc240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/Ninja Village.prefab using Guid(adfda6f924011cc4e9715cb9deafc240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6968612e456496a9976aba008e02289') in 0.108964 seconds
+  Import took 0.153809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_10.asset
+  artifactKey: Guid(e9c47beebadcc1048b6b03d57084a03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_10.asset using Guid(e9c47beebadcc1048b6b03d57084a03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def8ba356867decbaa15708a13dfc908') in 0.087909 seconds
+  Import took 0.093873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_18.asset
+  artifactKey: Guid(f846bb242cdf2c74d829cd2202dbb2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_18.asset using Guid(f846bb242cdf2c74d829cd2202dbb2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06b6135606578605d3beb857d451b16') in 0.013972 seconds
+  Import took 0.042193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_21.asset
+  artifactKey: Guid(3eb1a3bc81f099c40a6b44d08d81ed72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_21.asset using Guid(3eb1a3bc81f099c40a6b44d08d81ed72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91a19dcec1dda5515e5c978d74e9a16e') in 0.012074 seconds
+  Import took 0.052635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_22.asset
+  artifactKey: Guid(d3241ce29a8134d44ae6cb04fe0d659e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_22.asset using Guid(d3241ce29a8134d44ae6cb04fe0d659e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0686d6e7ccfae778169384b67886b8a6') in 0.014235 seconds
+  Import took 0.069995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_37.asset
+  artifactKey: Guid(f67a591d5a541ed428f6c455f9d05d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_37.asset using Guid(f67a591d5a541ed428f6c455f9d05d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f23bd01e28eea5b5aeef6a1c4106352') in 0.012413 seconds
+  Import took 0.042263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_38.asset
+  artifactKey: Guid(9d8806a31ff38c745ac6179542d1763b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_38.asset using Guid(9d8806a31ff38c745ac6179542d1763b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6a21a554c4a331345bd5bd4b2a0b76') in 0.015503 seconds
+  Import took 0.066969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_32.asset
+  artifactKey: Guid(87b4b55882289f044b22c370532cefb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_32.asset using Guid(87b4b55882289f044b22c370532cefb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5508c870151afb5187d1511fb345294e') in 0.038110 seconds
+  Import took 0.047415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_9.asset
+  artifactKey: Guid(1d1738e3599924c45ad6557ff3adbf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_9.asset using Guid(1d1738e3599924c45ad6557ff3adbf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b348ad2fd050839add6f25fbec668680') in 0.043637 seconds
+  Import took 0.053223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_30.asset
+  artifactKey: Guid(f865e43d4e3ab6f489086816962b4413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_30.asset using Guid(f865e43d4e3ab6f489086816962b4413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '135cc8886d99425e003d0b70d0b27da8') in 0.069450 seconds
+  Import took 0.098790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_19.asset
+  artifactKey: Guid(5da75b61e7d92d548bfc1d18526dc193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_19.asset using Guid(5da75b61e7d92d548bfc1d18526dc193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ca29b34de29fe4bc9ec389432bad96') in 0.019984 seconds
+  Import took 0.030885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_13.asset
+  artifactKey: Guid(d0a6a23cf356d3643907de57392f8128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_13.asset using Guid(d0a6a23cf356d3643907de57392f8128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c470c97b12d7dc1061903298878267') in 0.039561 seconds
+  Import took 0.049844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000988 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_0.asset
+  artifactKey: Guid(49ba6c652b2ba744d8172a3952fb4310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_0.asset using Guid(49ba6c652b2ba744d8172a3952fb4310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a462878c03e5b6745875c7e203b8df28') in 0.062669 seconds
+  Import took 0.088084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_11.asset
+  artifactKey: Guid(e44526a22be1905419a78da3049271c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_11.asset using Guid(e44526a22be1905419a78da3049271c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717e972a8fb5d991a916d5debfd29e55') in 0.044969 seconds
+  Import took 0.078823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001478 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_23.asset
+  artifactKey: Guid(4def617a7825f4845ba35532da9e2e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_23.asset using Guid(4def617a7825f4845ba35532da9e2e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5f36e6da69a4e00e0bcae9ed8792ae') in 0.023699 seconds
+  Import took 0.033886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_2.asset
+  artifactKey: Guid(a80fa926816512c488128033b36ea0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_2.asset using Guid(a80fa926816512c488128033b36ea0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2852d2f79c4f0588b07115e080c45687') in 0.025932 seconds
+  Import took 0.060838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_36.asset
+  artifactKey: Guid(d38771908af3bc3478446c3d09ac7c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_36.asset using Guid(d38771908af3bc3478446c3d09ac7c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15a51780e0033fe494aea19e1a291b29') in 0.072296 seconds
+  Import took 0.082297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_41.asset
+  artifactKey: Guid(d2957179e70c64c40af1362ec4668406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_41.asset using Guid(d2957179e70c64c40af1362ec4668406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28e4ec6293207f9b3d4484278b0b280b') in 0.066624 seconds
+  Import took 0.101761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_20.asset
+  artifactKey: Guid(04309e0561021e546a39854a0d7d041e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_20.asset using Guid(04309e0561021e546a39854a0d7d041e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d92bd81330855a22dfe3eff72ddd5ad') in 0.070921 seconds
+  Import took 0.084139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000671 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_17.asset
+  artifactKey: Guid(9415d83df407ae143ae1886e73f31314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_17.asset using Guid(9415d83df407ae143ae1886e73f31314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62d9bd443afde49e7d1f68681d0b053f') in 0.031062 seconds
+  Import took 0.062351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_43.asset
+  artifactKey: Guid(a070416c7d4912d4d947a296c79c6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_43.asset using Guid(a070416c7d4912d4d947a296c79c6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8289ce36a34cf36b1aac9170043d1e9e') in 0.094256 seconds
+  Import took 0.134595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_6.asset
+  artifactKey: Guid(9593662749505c84bb22d0eb594376b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_6.asset using Guid(9593662749505c84bb22d0eb594376b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc6a4013e46052af8391a9620ccba19') in 0.032940 seconds
+  Import took 0.050009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_31.asset
+  artifactKey: Guid(23602de82f8c5b84ca7ba409ceab0157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_31.asset using Guid(23602de82f8c5b84ca7ba409ceab0157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009ddea5f7a1a3fa3b3180a76d6247ed') in 0.034471 seconds
+  Import took 0.045558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_12.asset
+  artifactKey: Guid(a95d6f3faddb70c4681e8abe186e423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_12.asset using Guid(a95d6f3faddb70c4681e8abe186e423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcc4531666ef8888ff6db8be62ca79b') in 0.033094 seconds
+  Import took 0.042620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_25.asset
+  artifactKey: Guid(e587fac77a388fd429ab477de0c45156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_25.asset using Guid(e587fac77a388fd429ab477de0c45156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e5cf7dbc6d00c57f0010ec08101554d') in 0.179040 seconds
+  Import took 0.201424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001043 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_8.asset
+  artifactKey: Guid(a27ea6d11120e314d9fdd1af20ee183e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_8.asset using Guid(a27ea6d11120e314d9fdd1af20ee183e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d0d3e3c2e2a4599a60b6553ac590f6') in 0.034661 seconds
+  Import took 0.070165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000949 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_3.asset
+  artifactKey: Guid(a77c6a608d872484290f44dce1929d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_3.asset using Guid(a77c6a608d872484290f44dce1929d2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88467d3df4ef5d03c3ad1dda68dc18e6') in 0.054410 seconds
+  Import took 0.082207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_33.asset
+  artifactKey: Guid(dca7eb1295806264da27928cc80c410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_33.asset using Guid(dca7eb1295806264da27928cc80c410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e2ff3bcf88dab0cbfd6d7b0655200f') in 0.036190 seconds
+  Import took 0.047371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000545 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_24.asset
+  artifactKey: Guid(60bd9f61c9207ef49be900ced42a314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_24.asset using Guid(60bd9f61c9207ef49be900ced42a314e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90dcfe6739b694c4ea07c19923347e89') in 0.135274 seconds
+  Import took 0.152160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_14.asset
+  artifactKey: Guid(6494912425617c9458d70e008c34da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_14.asset using Guid(6494912425617c9458d70e008c34da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84139dc3388f8b4a617d1c987b5d4e88') in 0.086955 seconds
+  Import took 0.108867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001484 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_5.asset
+  artifactKey: Guid(af7753354dcfd2b428912398b4a77d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_5.asset using Guid(af7753354dcfd2b428912398b4a77d35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314bdd3798ca04d439915568cc94e418') in 0.056023 seconds
+  Import took 0.127822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001085 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_15.asset
+  artifactKey: Guid(35b13e45136a00f41b889b40151e3011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_15.asset using Guid(35b13e45136a00f41b889b40151e3011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67a5a223d1302b17ef9fb19e06891b5') in 0.412608 seconds
+  Import took 0.429053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_40.asset
+  artifactKey: Guid(243ab4e4ebe0cfc43b0953183285cff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_40.asset using Guid(243ab4e4ebe0cfc43b0953183285cff1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '998c12488c729fd45debe1548b4c05be') in 0.191747 seconds
+  Import took 0.199083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_35.asset
+  artifactKey: Guid(fd33f62b99aa4874880803a77c1d2f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_35.asset using Guid(fd33f62b99aa4874880803a77c1d2f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d31d3766e6bbcd5e0245e9f92fe8846') in 0.022126 seconds
+  Import took 0.058964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_28.asset
+  artifactKey: Guid(6d6d5e0f226a34e499b487becc50b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_28.asset using Guid(6d6d5e0f226a34e499b487becc50b7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa0c482e0fc9e6120f5dff02e1614023') in 0.034439 seconds
+  Import took 0.042899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_7.asset
+  artifactKey: Guid(426a021cfd370e64fb21b094bdc07924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_7.asset using Guid(426a021cfd370e64fb21b094bdc07924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04068060c0d5d866f7caf42ab2deaa5b') in 0.040560 seconds
+  Import took 0.048297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_27.asset
+  artifactKey: Guid(9a5ca5fb559aaea42922eed4106f8352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_27.asset using Guid(9a5ca5fb559aaea42922eed4106f8352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1a30fbced9daac841eb8995624d0a2') in 0.034902 seconds
+  Import took 0.046818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_1.asset
+  artifactKey: Guid(2e2f48aa13c56694ba0da2434dac534d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_1.asset using Guid(2e2f48aa13c56694ba0da2434dac534d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de3717e02cf47945ed1ac08a10ff4411') in 0.031061 seconds
+  Import took 0.043357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_39.asset
+  artifactKey: Guid(72ee9c2f1545cc641abc00d8d40129a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_39.asset using Guid(72ee9c2f1545cc641abc00d8d40129a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4f1924b1f618c0d8994480cbe146514') in 0.025031 seconds
+  Import took 0.034382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_26.asset
+  artifactKey: Guid(9c61f0f571cef254a8a9d2ef73e5c52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_26.asset using Guid(9c61f0f571cef254a8a9d2ef73e5c52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9139d4799cd0efe78dac35bb0ecdb4') in 0.071837 seconds
+  Import took 0.109470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_34.asset
+  artifactKey: Guid(86c58ed8c9792704786fcc7967e654e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_34.asset using Guid(86c58ed8c9792704786fcc7967e654e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16fe0b118f697498e3b9858fe3672bfd') in 0.056341 seconds
+  Import took 0.074969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_4.asset
+  artifactKey: Guid(b8d1a9304171ea54cb5a55abaadcea0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_4.asset using Guid(b8d1a9304171ea54cb5a55abaadcea0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36fcfd24f10a6bcee2fad635cf53b41a') in 0.028520 seconds
+  Import took 0.037258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000561 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_44.asset
+  artifactKey: Guid(873d6220c1a9ae5418f5674014c62273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_44.asset using Guid(873d6220c1a9ae5418f5674014c62273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f015a5ff318e7ce41733691a96d4a1') in 0.021121 seconds
+  Import took 0.046722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_48.asset
+  artifactKey: Guid(d695639f425417d409a496b08a18ef50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_48.asset using Guid(d695639f425417d409a496b08a18ef50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fdc28839051e404994577c24432fd1f') in 0.022465 seconds
+  Import took 0.030839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_47.asset
+  artifactKey: Guid(61479af5d6d698e4fbf45a3dc42bfb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_47.asset using Guid(61479af5d6d698e4fbf45a3dc42bfb2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef37d9740a74a05ea41542159ad7909') in 0.016466 seconds
+  Import took 0.025375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_50.asset
+  artifactKey: Guid(77cf49f0699b6434eba5827c0a65dbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_50.asset using Guid(77cf49f0699b6434eba5827c0a65dbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12573c943cba3ceec034dadafdf96b95') in 0.055345 seconds
+  Import took 0.069204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_51.asset
+  artifactKey: Guid(78405f35305371b449c43346d37533cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_51.asset using Guid(78405f35305371b449c43346d37533cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fee32321a3f250b69719d66589f93905') in 0.024484 seconds
+  Import took 0.033252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_56.asset
+  artifactKey: Guid(de3d9dd6598dcbe4dbd8c7432c9f238e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_56.asset using Guid(de3d9dd6598dcbe4dbd8c7432c9f238e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0ef4053d786cdfab632dbcffde2a78') in 0.033482 seconds
+  Import took 0.073013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_57.asset
+  artifactKey: Guid(d9610e8527a5afe42829110efbee44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_57.asset using Guid(d9610e8527a5afe42829110efbee44ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8910a2658492e7bbd4d33928bd03bb22') in 0.018169 seconds
+  Import took 0.038161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_53.asset
+  artifactKey: Guid(7d15ba1b354772347b195e9aab12bbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_53.asset using Guid(7d15ba1b354772347b195e9aab12bbd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a2bdc14e25b7e634754fc155ecd3c83') in 0.016085 seconds
+  Import took 0.022747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_54.asset
+  artifactKey: Guid(f35c9a53996577f4a9d398a20c38c13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_54.asset using Guid(f35c9a53996577f4a9d398a20c38c13e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eed6e73fce47c77cd4d155be13b13405') in 0.016441 seconds
+  Import took 0.023837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_58.asset
+  artifactKey: Guid(1d3066a3db2fe5640b9517a495ffb642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_58.asset using Guid(1d3066a3db2fe5640b9517a495ffb642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a71ebd97ff24eb9a3a6a080e735e9e4') in 0.021828 seconds
+  Import took 0.028951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_60.asset
+  artifactKey: Guid(c41c7a48b580afa4784c4f9c4f7d3083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_60.asset using Guid(c41c7a48b580afa4784c4f9c4f7d3083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc3ee240f3aa94714ad1b508e24209f7') in 0.019943 seconds
+  Import took 0.024974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_61.asset
+  artifactKey: Guid(5011c3373dfc63849a5d1437f6a2f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_61.asset using Guid(5011c3373dfc63849a5d1437f6a2f504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e895e9d6a0aace1264c9e498aa5bdf95') in 0.020647 seconds
+  Import took 0.100733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_63.asset
+  artifactKey: Guid(254afc75deba388448a44905aa89f043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_63.asset using Guid(254afc75deba388448a44905aa89f043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28bf2319548030b4d21b676874c63a1c') in 0.036997 seconds
+  Import took 0.044780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_65.asset
+  artifactKey: Guid(aac08b55fcf18384994cbaff33772ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_65.asset using Guid(aac08b55fcf18384994cbaff33772ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829e4e37e64ccd25f83d4c308e4ec038') in 0.024534 seconds
+  Import took 0.065469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002221 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_55.asset
+  artifactKey: Guid(888a69e87ea06be4f97fd2931d4e6efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_55.asset using Guid(888a69e87ea06be4f97fd2931d4e6efc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a7c83b71fe53a58d0e1b5007955dd0') in 0.089602 seconds
+  Import took 0.199602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000749 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_62.asset
+  artifactKey: Guid(9777502637a828443be89380092c8e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_62.asset using Guid(9777502637a828443be89380092c8e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '387bcb98f1711e8c833651f1dee3d6de') in 0.026427 seconds
+  Import took 0.034085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004991 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_52.asset
+  artifactKey: Guid(262f628311948ac4280d4dfb310ed174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_52.asset using Guid(262f628311948ac4280d4dfb310ed174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d390c5cdd4df047c9e83386fc769154') in 0.048075 seconds
+  Import took 0.060347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_49.asset
+  artifactKey: Guid(fe1ed15137e0ec84c87b4607454b723a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_49.asset using Guid(fe1ed15137e0ec84c87b4607454b723a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7389519eb411012494a0ad49638756b') in 0.047467 seconds
+  Import took 0.061852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_64.asset
+  artifactKey: Guid(4b1f3b2ebb1bf27488161774a2ef4905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_64.asset using Guid(4b1f3b2ebb1bf27488161774a2ef4905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362e2dbff953cd1c82e89fe9e9fa55ab') in 0.029979 seconds
+  Import took 0.044212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_59.asset
+  artifactKey: Guid(9388aa7a22a961948815150f1581156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_59.asset using Guid(9388aa7a22a961948815150f1581156b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99167e22de6928cc2b020c49da919d48') in 0.056593 seconds
+  Import took 0.119268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_46.asset
+  artifactKey: Guid(0ba8c365b45fde249b47adc396b0942c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_46.asset using Guid(0ba8c365b45fde249b47adc396b0942c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521f1e675cd37d60304c51febd202b9e') in 0.079387 seconds
+  Import took 0.114555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_42.asset
+  artifactKey: Guid(703f1be2fe9eea447a4deafe39ae37f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_42.asset using Guid(703f1be2fe9eea447a4deafe39ae37f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e63752e6b8a4b1611b65b41525d48b') in 0.088006 seconds
+  Import took 0.106023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000520 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_29.asset
+  artifactKey: Guid(06c8f469d85682d41ad4a8353fcbfb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_29.asset using Guid(06c8f469d85682d41ad4a8353fcbfb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3f5f69a3d443bacfd495d3c3debb64') in 0.129683 seconds
+  Import took 0.159154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000962 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_45.asset
+  artifactKey: Guid(d733e75140bb0814092ffe3e72c597d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_45.asset using Guid(d733e75140bb0814092ffe3e72c597d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '003fbc96d54d4caa3d27deb218590132') in 0.050177 seconds
+  Import took 0.068357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001418 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_16.asset
+  artifactKey: Guid(55738ad8d79a56c48ad7821f6e56a666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_16.asset using Guid(55738ad8d79a56c48ad7821f6e56a666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3093cdb6d58e1710ae5b0b5d31c07a2') in 0.032242 seconds
+  Import took 0.107480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.776530 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_66.asset
+  artifactKey: Guid(306d20d3f295cf344995aa7987c7d0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_66.asset using Guid(306d20d3f295cf344995aa7987c7d0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6acd2dd1ddf60eb7be13f12763e9230') in 0.031887 seconds
+  Import took 0.068182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_69.asset
+  artifactKey: Guid(63c074d810725f24e95402895ec394e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_69.asset using Guid(63c074d810725f24e95402895ec394e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676f16e305b2875a5071cb1a3183d531') in 0.016713 seconds
+  Import took 0.023556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000463 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_72.asset
+  artifactKey: Guid(b13cec7bde161e14ca8b6b515fc7aaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_72.asset using Guid(b13cec7bde161e14ca8b6b515fc7aaaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e99a960cb932cebdacc62b6dbbe6b07') in 0.015830 seconds
+  Import took 0.023432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_67.asset
+  artifactKey: Guid(f58e8ca9b099d684f8fb8ac956928396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_67.asset using Guid(f58e8ca9b099d684f8fb8ac956928396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89bebf12d2441c17397aa25f29f12e7b') in 0.015457 seconds
+  Import took 0.022669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_70.asset
+  artifactKey: Guid(ee9aa9bb373fca24e98172d9d7f0452f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_70.asset using Guid(ee9aa9bb373fca24e98172d9d7f0452f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ca633ccb676bceb10c860578719535') in 0.015832 seconds
+  Import took 0.023214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_77.asset
+  artifactKey: Guid(32822490b8a94954d9d37a88bd1ba8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_77.asset using Guid(32822490b8a94954d9d37a88bd1ba8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4567a916e889d4219525e70c96bd9258') in 0.019503 seconds
+  Import took 0.026765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_74.asset
+  artifactKey: Guid(2a415c6aaf578934cb23f2bd37a335fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_74.asset using Guid(2a415c6aaf578934cb23f2bd37a335fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3add689becb494d7d6034c258d4be08e') in 0.052454 seconds
+  Import took 0.059325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000444 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_81.asset
+  artifactKey: Guid(104f83ba476eb2d4bb4e7c2ff32876f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_81.asset using Guid(104f83ba476eb2d4bb4e7c2ff32876f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3275edc488933e0b3eadf0e16ecf340c') in 0.015813 seconds
+  Import took 0.022826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_73.asset
+  artifactKey: Guid(eecf93af0f413a547a8ef67528f695b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_73.asset using Guid(eecf93af0f413a547a8ef67528f695b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f256da83208df5cc4fba78ad01fd684') in 0.016635 seconds
+  Import took 0.032849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_79.asset
+  artifactKey: Guid(6707c83cc6fef03418ac7e2eb9a82716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_79.asset using Guid(6707c83cc6fef03418ac7e2eb9a82716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b9d6928c3e00462753f73376c6cee3') in 0.016539 seconds
+  Import took 0.051832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_84.asset
+  artifactKey: Guid(ca7e49a20354dba4daeadf46b34ad57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_84.asset using Guid(ca7e49a20354dba4daeadf46b34ad57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f7fd470ce6e1514084a9e3b7e69d4b') in 0.014527 seconds
+  Import took 0.022426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_87.asset
+  artifactKey: Guid(2511d5c8c3626d44cb30565eab614bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_87.asset using Guid(2511d5c8c3626d44cb30565eab614bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab472f78feb2f52fad4c12cbe17f5916') in 0.017142 seconds
+  Import took 0.026277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000469 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_75.asset
+  artifactKey: Guid(03da7c1586abbc448ab8a22588d21505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_75.asset using Guid(03da7c1586abbc448ab8a22588d21505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66fe3c7698d234e6e06ae0178a79a88') in 0.023419 seconds
+  Import took 0.030184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_78.asset
+  artifactKey: Guid(700b46f0406e5644ca8535191b2bebe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_78.asset using Guid(700b46f0406e5644ca8535191b2bebe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f011040c21082d0619d338c82ce78e00') in 0.014754 seconds
+  Import took 0.021709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_253.asset
+  artifactKey: Guid(84dd7c338f42f36439c355363050142f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_253.asset using Guid(84dd7c338f42f36439c355363050142f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3882077b5d9a5f5fd86616d9e773e905') in 0.015461 seconds
+  Import took 0.023300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_252.asset
+  artifactKey: Guid(9156d24b223d1234197d1419338b97bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_252.asset using Guid(9156d24b223d1234197d1419338b97bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df62a29aaa5ee01f647e5eade9890df') in 0.016086 seconds
+  Import took 0.022980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001444 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_256.asset
+  artifactKey: Guid(d7bb56a6718d6764dbc7bc85299d8902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_256.asset using Guid(d7bb56a6718d6764dbc7bc85299d8902) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6743bd82495e97c99de353b41a54e135') in 0.017550 seconds
+  Import took 0.025141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_255.asset
+  artifactKey: Guid(b9ca0e3a7d882f6499a9970551cde048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_255.asset using Guid(b9ca0e3a7d882f6499a9970551cde048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5478c364ff5e880f40a3eb5c195af5d') in 0.025667 seconds
+  Import took 0.033392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001202 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_262.asset
+  artifactKey: Guid(08db6e2b42e2db94b99a839d1713a0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_262.asset using Guid(08db6e2b42e2db94b99a839d1713a0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '766e3bfd669e92f15842aef01dc4e4a9') in 0.015570 seconds
+  Import took 0.052707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_263.asset
+  artifactKey: Guid(b57d8b1125b5bea44bcd2ba0cca5de42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_263.asset using Guid(b57d8b1125b5bea44bcd2ba0cca5de42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be09d7258a0a1b6e4364197b51577f9') in 0.012855 seconds
+  Import took 0.018549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_260.asset
+  artifactKey: Guid(abbdaf1aee568a24a8f07caac62022ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_260.asset using Guid(abbdaf1aee568a24a8f07caac62022ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27189ef9d8316dc6cb22bb9609327f29') in 0.013627 seconds
+  Import took 0.020472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_267.asset
+  artifactKey: Guid(49ce5223f5b66a04898eafd582b7f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_267.asset using Guid(49ce5223f5b66a04898eafd582b7f5e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b34f31158f57123a996290fd3e933d4') in 0.019258 seconds
+  Import took 0.024606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_264.asset
+  artifactKey: Guid(8669c5f3869b26447adeede917eae375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_264.asset using Guid(8669c5f3869b26447adeede917eae375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8626ae47621b304ede390312c8d03c9a') in 0.012432 seconds
+  Import took 0.067338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_271.asset
+  artifactKey: Guid(95229c989422d854d966f33eede5a0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_271.asset using Guid(95229c989422d854d966f33eede5a0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b47d5368a0d2c1ca3b3056bd99bce6') in 0.011423 seconds
+  Import took 0.016999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_272.asset
+  artifactKey: Guid(548b9e506b2cdb949b3db39b8c9e8aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_272.asset using Guid(548b9e506b2cdb949b3db39b8c9e8aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed070753b7f7c13706e84d6901c0f7e2') in 0.013629 seconds
+  Import took 0.057754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_274.asset
+  artifactKey: Guid(e0ab92d8c4f1dbe4193093735f8f2b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_274.asset using Guid(e0ab92d8c4f1dbe4193093735f8f2b6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7752f53a1ee04bba8c9a9d6bb4f0b5a3') in 0.018515 seconds
+  Import took 0.024045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_273.asset
+  artifactKey: Guid(97bda0d5f63d2e54a9a93a42f48558ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_273.asset using Guid(97bda0d5f63d2e54a9a93a42f48558ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d8158d83c529f62ec090a75f5a8865') in 0.014656 seconds
+  Import took 0.020504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_276.asset
+  artifactKey: Guid(7c2695b6e4a39364e9523d2ed231b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_276.asset using Guid(7c2695b6e4a39364e9523d2ed231b72e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1112cce481b909efc1431233f66e7d') in 0.013303 seconds
+  Import took 0.021239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_265.asset
+  artifactKey: Guid(ee71741b27e4c6c468166772e36ae470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_265.asset using Guid(ee71741b27e4c6c468166772e36ae470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9525d2fae4d2f53e76d07486c94360') in 0.015577 seconds
+  Import took 0.022001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_269.asset
+  artifactKey: Guid(04252113b87687c4db71008c16175ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_269.asset using Guid(04252113b87687c4db71008c16175ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962e65fdf717112de2a8507b41b1ae7e') in 0.015586 seconds
+  Import took 0.042842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_279.asset
+  artifactKey: Guid(a1a772ee5abfbe64192d328176b7c08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_279.asset using Guid(a1a772ee5abfbe64192d328176b7c08d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0761d4ea9db59a8ba10b9e737377ae') in 0.013107 seconds
+  Import took 0.018342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_278.asset
+  artifactKey: Guid(5b5b04061b1b9234689ff31c3dc37628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_278.asset using Guid(5b5b04061b1b9234689ff31c3dc37628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '870141cafbd203b83fc423d9bb26e96e') in 0.012309 seconds
+  Import took 0.017268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_257.asset
+  artifactKey: Guid(f15cc19d443686f4e9b6201a9d00aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_257.asset using Guid(f15cc19d443686f4e9b6201a9d00aab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b7d644a729d1c342388b6f58c8ef3e7') in 0.015431 seconds
+  Import took 0.020474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_68.asset
+  artifactKey: Guid(d5f3c5a8d47b7b946bbdf8eaf8bd26cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_68.asset using Guid(d5f3c5a8d47b7b946bbdf8eaf8bd26cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd1bbc7e4faecbdbc80bfe521828dd9') in 0.016927 seconds
+  Import took 0.023234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_82.asset
+  artifactKey: Guid(c739271cd08cb624080f238dc9033e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_82.asset using Guid(c739271cd08cb624080f238dc9033e51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36399d615239fa00329478cf2939bb8') in 0.015756 seconds
+  Import took 0.024507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_283.asset
+  artifactKey: Guid(74b707c96ad2eb94c8177fa68d8672a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_283.asset using Guid(74b707c96ad2eb94c8177fa68d8672a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99607240f2d69f213b890f468131965a') in 0.015457 seconds
+  Import took 0.023155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_285.asset
+  artifactKey: Guid(2a970663764015c44b265e5de420bf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_285.asset using Guid(2a970663764015c44b265e5de420bf1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ea336286f3286d377043bdc3afb03b') in 0.013572 seconds
+  Import took 0.020535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000521 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_76.asset
+  artifactKey: Guid(f931fb0541d84884ea05ff5ea552568a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_76.asset using Guid(f931fb0541d84884ea05ff5ea552568a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3d8ab784cc203ddca831444e7bda12') in 0.013269 seconds
+  Import took 0.025888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_287.asset
+  artifactKey: Guid(083960bebdf594143b58657e64f904f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_287.asset using Guid(083960bebdf594143b58657e64f904f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f52c2e0230d351527ef0cb84e6dd1c0f') in 0.020453 seconds
+  Import took 0.037265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002691 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_270.asset
+  artifactKey: Guid(c8a62328b3cc2f04a81e77a953cbbd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_270.asset using Guid(c8a62328b3cc2f04a81e77a953cbbd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e00128af2349bda95fe004e34df5f12') in 0.026666 seconds
+  Import took 0.036247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_85.asset
+  artifactKey: Guid(3f8a38f8e8ca886469970dbaea1cd918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_85.asset using Guid(3f8a38f8e8ca886469970dbaea1cd918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230a449dc8639091135ebcf29edba375') in 0.018116 seconds
+  Import took 0.025001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_254.asset
+  artifactKey: Guid(1d3b6cb8691639a42ad68d362a1ccfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_254.asset using Guid(1d3b6cb8691639a42ad68d362a1ccfe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e626fe71be4e3d3206dd4955db53aeb') in 0.025995 seconds
+  Import took 0.037664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_290.asset
+  artifactKey: Guid(f65d1bcace68db54b8e9b1be48826ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_290.asset using Guid(f65d1bcace68db54b8e9b1be48826ae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf72056bec7afbafe74a3ee19e9491c3') in 0.029729 seconds
+  Import took 0.037016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_268.asset
+  artifactKey: Guid(e7ec2e6f02831b3459657eee8ad2df41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_268.asset using Guid(e7ec2e6f02831b3459657eee8ad2df41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a8b1a1e106eb79074625bcc0e515f4') in 0.017354 seconds
+  Import took 0.024413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_291.asset
+  artifactKey: Guid(0e7609a959e160149b37c511bc048da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_291.asset using Guid(0e7609a959e160149b37c511bc048da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca27d8d36efc02d1abd726b514dc8086') in 0.025272 seconds
+  Import took 0.034332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_80.asset
+  artifactKey: Guid(524273e0880c09847ae95e2ffcdafb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_80.asset using Guid(524273e0880c09847ae95e2ffcdafb29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739fe4b3c91688298d046fc3f2f6bb0b') in 0.022824 seconds
+  Import took 0.069604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_292.asset
+  artifactKey: Guid(3701431d6d3f35c43ab3c1c496613385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_292.asset using Guid(3701431d6d3f35c43ab3c1c496613385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b6587b32a50a2603ffcb36a38d02e14') in 0.136334 seconds
+  Import took 0.171742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_297.asset
+  artifactKey: Guid(5712ca5ed2e884142add7a1367b8568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_297.asset using Guid(5712ca5ed2e884142add7a1367b8568b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5633718e8741ead369c66ea74b7a7f') in 0.034782 seconds
+  Import took 0.062453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006152 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_295.asset
+  artifactKey: Guid(5126ae77e9d2b294ebdb7d1297982115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_295.asset using Guid(5126ae77e9d2b294ebdb7d1297982115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1829b97cf053f02105a4ee2fd08a6d69') in 0.045360 seconds
+  Import took 0.074453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_302.asset
+  artifactKey: Guid(52e47114f4234cc4292e8b673f9a4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_302.asset using Guid(52e47114f4234cc4292e8b673f9a4856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad477a5d813ffc553319229e94d4f867') in 0.034257 seconds
+  Import took 0.048184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000793 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_300.asset
+  artifactKey: Guid(e2044b6b9d6e7f8468de64f58523a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_300.asset using Guid(e2044b6b9d6e7f8468de64f58523a6f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90bc616081d01dd5e4f4731017a170ad') in 0.033246 seconds
+  Import took 0.042391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000585 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_296.asset
+  artifactKey: Guid(5b4a2d37b6d24ed4c9fe851394dc8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_296.asset using Guid(5b4a2d37b6d24ed4c9fe851394dc8fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d9e41ca1cfe121982764d51a7f7f604') in 0.078851 seconds
+  Import took 0.088772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_86.asset
+  artifactKey: Guid(32b7a8cdfcdee804595bcc01ffa4dec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_86.asset using Guid(32b7a8cdfcdee804595bcc01ffa4dec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5ce327c684c56bc1a57bc06aa066c2') in 0.113791 seconds
+  Import took 0.131770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_83.asset
+  artifactKey: Guid(ce044ba5c4967694da9ad47576a05bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_83.asset using Guid(ce044ba5c4967694da9ad47576a05bf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '536e787b0e40b94b0d27d01d1e90906b') in 0.088093 seconds
+  Import took 0.110563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008669 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_284.asset
+  artifactKey: Guid(228e6033e2c60494fa97db91eaef2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_284.asset using Guid(228e6033e2c60494fa97db91eaef2f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c6a307d1593f8ea61a7710cebf888d') in 0.046364 seconds
+  Import took 0.062731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_306.asset
+  artifactKey: Guid(d5073868a0549104cb4e2318248c8c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_306.asset using Guid(d5073868a0549104cb4e2318248c8c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63f43d0b5684707bab42ec4f137f2443') in 0.058004 seconds
+  Import took 0.178922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_258.asset
+  artifactKey: Guid(0f5fa46558178f4489594eef6d1ece38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_258.asset using Guid(0f5fa46558178f4489594eef6d1ece38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931cce577bc92ce58012eb2fcd9c0766') in 0.058119 seconds
+  Import took 0.103900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_280.asset
+  artifactKey: Guid(35786036e3c515941a80b451f9aeca6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_280.asset using Guid(35786036e3c515941a80b451f9aeca6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0396eece94d9db30116d3f2e2e14ba9c') in 0.134785 seconds
+  Import took 0.144744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_294.asset
+  artifactKey: Guid(447d5274a1c17a14bb422553950d7637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_294.asset using Guid(447d5274a1c17a14bb422553950d7637) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e374dcc71245413d9c9e1bff744b9a') in 0.104595 seconds
+  Import took 0.111366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_303.asset
+  artifactKey: Guid(7c1eb2c6d6306304395fd1fd36a6d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_303.asset using Guid(7c1eb2c6d6306304395fd1fd36a6d53b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f2d6f0d8a211b75dd94551a41971fb') in 0.052172 seconds
+  Import took 0.063844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_304.asset
+  artifactKey: Guid(5756f0894a23e094ca679027e2b1ae8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_304.asset using Guid(5756f0894a23e094ca679027e2b1ae8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99955cce64b746a7d56aad4f790971c3') in 0.039844 seconds
+  Import took 0.050297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000622 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_281.asset
+  artifactKey: Guid(828e8718976a3a64da2040ba74f7a6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_281.asset using Guid(828e8718976a3a64da2040ba74f7a6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '513aa26b14ce3556c35abf3e0c7f03e3') in 0.028160 seconds
+  Import took 0.043760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_289.asset
+  artifactKey: Guid(2c8303ed6b85bdc40831be724467f15f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_289.asset using Guid(2c8303ed6b85bdc40831be724467f15f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd790d64ad238a86de8b5d53150ef66ad') in 0.034045 seconds
+  Import took 0.042985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_286.asset
+  artifactKey: Guid(8e73e0c40fab76d448000bbd8176fe82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_286.asset using Guid(8e73e0c40fab76d448000bbd8176fe82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc6b38dacfa68768ab94e50f156bf4b') in 0.024923 seconds
+  Import took 0.032811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000956 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_259.asset
+  artifactKey: Guid(40c3a8b73987fdf41b4ebaf7d20d50ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_259.asset using Guid(40c3a8b73987fdf41b4ebaf7d20d50ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f4347a79767603b0774142cbf0e7499') in 0.027530 seconds
+  Import took 0.049162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_266.asset
+  artifactKey: Guid(f2c1b9e498d9e9448acdfd6d46cb9c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_266.asset using Guid(f2c1b9e498d9e9448acdfd6d46cb9c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad197d7486ce5e10c0dff9204685ab81') in 0.031827 seconds
+  Import took 0.042051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_261.asset
+  artifactKey: Guid(061eb8af5073f27438c6dbc95e1cc9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_261.asset using Guid(061eb8af5073f27438c6dbc95e1cc9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca64a624157676638faf0554e22ab39a') in 0.081320 seconds
+  Import took 0.090764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_277.asset
+  artifactKey: Guid(1224eeea8f4650344b7fcb74b838cc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_277.asset using Guid(1224eeea8f4650344b7fcb74b838cc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e094cfcde72a119cfa364c6bcb2b23a') in 0.028222 seconds
+  Import took 0.044841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_288.asset
+  artifactKey: Guid(bd3dfe72c3e3f4b4699347dbd4c24992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_288.asset using Guid(bd3dfe72c3e3f4b4699347dbd4c24992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5422dc2337be4079029ba16f21714ce0') in 0.030624 seconds
+  Import took 0.045860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_282.asset
+  artifactKey: Guid(61a1db5b6f3836241a7000c8f3694bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_282.asset using Guid(61a1db5b6f3836241a7000c8f3694bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98b3f81cb7b31f37838dacb8b994c89') in 0.037435 seconds
+  Import took 0.048278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_307.asset
+  artifactKey: Guid(448600035368aad4eae1bb9de4304a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_307.asset using Guid(448600035368aad4eae1bb9de4304a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c2810b3ee9b83c0f51f22e36e8f790') in 0.036510 seconds
+  Import took 0.051788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_293.asset
+  artifactKey: Guid(d8fd8eeb10102db4b90b5507d7868561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_293.asset using Guid(d8fd8eeb10102db4b90b5507d7868561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc53d4337145cc39fb17a312be22834') in 0.033505 seconds
+  Import took 0.051357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000763 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_298.asset
+  artifactKey: Guid(576a6d48b747cf84599544bcda3f05f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_298.asset using Guid(576a6d48b747cf84599544bcda3f05f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '269a51a5556745fae868895a4059d6e3') in 0.040326 seconds
+  Import took 0.053056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_305.asset
+  artifactKey: Guid(c60d1cf7008cf774fb741e46e86b67a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_305.asset using Guid(c60d1cf7008cf774fb741e46e86b67a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8478bef83b175d579eb60c4b8ce7e85c') in 0.034252 seconds
+  Import took 0.043796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_71.asset
+  artifactKey: Guid(48e965e5ee26c7f41b91c802620d0ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_71.asset using Guid(48e965e5ee26c7f41b91c802620d0ee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f48bd8321b3b1aaea4180a4d77f006') in 0.022298 seconds
+  Import took 0.033249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_275.asset
+  artifactKey: Guid(d843a680562b38b438b09e409166c34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_275.asset using Guid(d843a680562b38b438b09e409166c34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9b7166b3417211955cb23f49c18fbc7') in 0.039405 seconds
+  Import took 0.101235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_301.asset
+  artifactKey: Guid(1e0a45943a0cba3488d09658273aba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_301.asset using Guid(1e0a45943a0cba3488d09658273aba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117a3a5aceb2a0b7c7ca1cf6d40ff686') in 0.025631 seconds
+  Import took 0.052247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Pallets/NinjaVillageTileset_8_299.asset
+  artifactKey: Guid(04dc8100864bfec4e8d149457f0e14ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pallets/NinjaVillageTileset_8_299.asset using Guid(04dc8100864bfec4e8d149457f0e14ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a0eda0f738a4b3a4fe946d3e66f76b') in 0.029388 seconds
+  Import took 0.053607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.765571 seconds.
+  path: Assets/Sprites/Genesis 32X SCD - Double Dragon III The Rosetta Stone - Mission 3 Japan.png
+  artifactKey: Guid(2f18c9cf5deede54893343db61ae8afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Genesis 32X SCD - Double Dragon III The Rosetta Stone - Mission 3 Japan.png using Guid(2f18c9cf5deede54893343db61ae8afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc3442f9426e842151c5a0361c07786') in 0.056520 seconds
+  Import took 0.083489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.644794 seconds.
+  path: Assets/Sprites/CheckpointActivation_16.png
+  artifactKey: Guid(9f153b1fc51e3524f8666ec58d9d2577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/CheckpointActivation_16.png using Guid(9f153b1fc51e3524f8666ec58d9d2577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e019b753f2efc0e6944dab8698d70438') in 0.038731 seconds
+  Import took 0.110893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.150491 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset04.png
+  artifactKey: Guid(134abfeae3b5d0d42a24862555e1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset04.png using Guid(134abfeae3b5d0d42a24862555e1dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9447dce44fcc14bd962fc5ce919dc929') in 0.056842 seconds
+  Import took 0.081431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset12.png
+  artifactKey: Guid(d90e5273fa2088444b1f63dd0273af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset12.png using Guid(d90e5273fa2088444b1f63dd0273af5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '879bbad08ef1e5b08182aca797b4702d') in 0.261606 seconds
+  Import took 0.272010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset05.png
+  artifactKey: Guid(0b3f56a6b7be3c04890a093b889c5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset05.png using Guid(0b3f56a6b7be3c04890a093b889c5fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e58c8da47cb9f2ef1cc5b4039f775d') in 0.150272 seconds
+  Import took 0.159293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000559 seconds.
+  path: Assets/Sprites/NinjaVillage_MaisonDeTheEasterEgg.png
+  artifactKey: Guid(d5b79ccee514d1c47839c736cf7f6947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_MaisonDeTheEasterEgg.png using Guid(d5b79ccee514d1c47839c736cf7f6947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7378a63820cfbe0a4dcafc7fd23f4b') in 0.041858 seconds
+  Import took 0.051583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Sprites/NinjaVillage_8_Rack.png
+  artifactKey: Guid(d25a35590850ef64aa5c6cb93a64c377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_Rack.png using Guid(d25a35590850ef64aa5c6cb93a64c377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9234b6a00cbbb801bc5a27e431af9fe5') in 0.036150 seconds
+  Import took 0.059846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000981 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset04B.png
+  artifactKey: Guid(c3a295e8b5899fc47b6971a72d9fee4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset04B.png using Guid(c3a295e8b5899fc47b6971a72d9fee4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd670ae5b4965771cb252880f441c2f8d') in 0.137157 seconds
+  Import took 0.164385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset04C.png
+  artifactKey: Guid(2f59cf34b3b45c44c8d0db06ea078c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset04C.png using Guid(2f59cf34b3b45c44c8d0db06ea078c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2745df97177192dae9dc75074b79df94') in 0.093638 seconds
+  Import took 0.107897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Sprites/NinjaVillage_8_BackAsset06.png
+  artifactKey: Guid(426f7ab50b0b5384e960c61be7b36364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_BackAsset06.png using Guid(426f7ab50b0b5384e960c61be7b36364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013989ee31c465e547456ae97c74507b') in 0.088686 seconds
+  Import took 0.119122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002462 seconds.
+  path: Assets/Sprites/NinjaVillage_8_Dojo.png
+  artifactKey: Guid(2a68e7926c071564db64b1713397e774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_Dojo.png using Guid(2a68e7926c071564db64b1713397e774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5aa18d5cd2905489067695ca19122b') in 0.070960 seconds
+  Import took 0.085382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Sprites/NinjaVillage_8_Gong.png
+  artifactKey: Guid(a4fefb7946a51c24b9fb2e43140b6c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/NinjaVillage_8_Gong.png using Guid(a4fefb7946a51c24b9fb2e43140b6c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34aba77e19e8986e2696e72ca9faadc1') in 0.034785 seconds
+  Import took 0.045850 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
