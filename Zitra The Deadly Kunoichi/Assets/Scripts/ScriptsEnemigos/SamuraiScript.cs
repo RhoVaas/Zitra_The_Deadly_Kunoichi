@@ -27,6 +27,6 @@ public class SamuraiScript : MonoBehaviour
 
 	private void Atacar(){
 		Debug.Log("Atacar");
-		//animator.SetBool("samuraiAtaca", true);
+		animator.SetBool("samuraiAtaca", true);
 	}
 }

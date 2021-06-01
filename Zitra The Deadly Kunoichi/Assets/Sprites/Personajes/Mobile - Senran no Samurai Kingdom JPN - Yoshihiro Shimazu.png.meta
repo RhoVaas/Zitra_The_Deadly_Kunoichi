@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: fdf804cf87688244c9fce514aeb76c66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3639243293259209755
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_0
+  - first:
+      213: -2669911291287707976
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_1
+  - first:
+      213: 8293865092520776032
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_2
+  - first:
+      213: -8073515389147310923
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_3
+  - first:
+      213: -5360107909225839460
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_4
+  - first:
+      213: 9053537626791577271
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_5
+  - first:
+      213: -8331347507891607296
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_6
+  - first:
+      213: -7616315357537565322
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_7
+  - first:
+      213: 3309293203166245862
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_8
+  - first:
+      213: -9205440971434131238
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_9
+  - first:
+      213: 1282825614027570485
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_10
+  - first:
+      213: 8862915001352690774
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_11
+  - first:
+      213: -4726901202245291018
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_12
+  - first:
+      213: -4675877320885675969
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_13
+  - first:
+      213: -1913406004468791750
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_14
+  - first:
+      213: 7632580513034966615
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_15
+  - first:
+      213: 4563193668639013042
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_16
+  - first:
+      213: -2471746634814976092
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_17
+  - first:
+      213: 2608145538323603570
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_18
+  - first:
+      213: 7443831830856024495
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_19
+  - first:
+      213: 1886660448218200185
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_20
+  - first:
+      213: 7939314995946493618
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_21
+  - first:
+      213: 3695645007623107357
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_22
+  - first:
+      213: -4392385186015909234
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_23
+  - first:
+      213: 5535241725358048614
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_24
+  - first:
+      213: 6704299208537240490
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_25
+  - first:
+      213: 2264545257440877838
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_26
+  - first:
+      213: 851810031447108521
+    second: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 298
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c10f16e70318230800000000000000
+      internalID: 3639243293259209755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 298
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beddfc83d192fad0800000000000000
+      internalID: -2669911291287707976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 299
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06196bedb5ab91370800000000000000
+      internalID: 8293865092520776032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 299
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49935678c15ff80800000000000000
+      internalID: -8073515389147310923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 301
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9405d071421d95b0800000000000000
+      internalID: -5360107909225839460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 280
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b68b8df080a4ad70800000000000000
+      internalID: 9053537626791577271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 299
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e8cb359b116c80800000000000000
+      internalID: -8331347507891607296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 299
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750f9809896d4690800000000000000
+      internalID: -7616315357537565322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 181
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3b65882a8fced20800000000000000
+      internalID: 3309293203166245862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 174
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad087d08534bf3080800000000000000
+      internalID: -9205440971434131238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db2e869138dc110800000000000000
+      internalID: 1282825614027570485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 174
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9b1a6c366ffa70800000000000000
+      internalID: 8862915001352690774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 227
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37dc7966ca66eb0800000000000000
+      internalID: -4726901202245291018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 195
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38dd4bb952fb1fb0800000000000000
+      internalID: -4675877320885675969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 191
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c98860673275e0800000000000000
+      internalID: -1913406004468791750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_15
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 199
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569407998f5ce960800000000000000
+      internalID: 7632580513034966615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_16
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 176
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b83a8cf678b35f30800000000000000
+      internalID: 4563193668639013042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 204
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0611188792bdd0800000000000000
+      internalID: -2471746634814976092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 175
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706c4e6c8ef13420800000000000000
+      internalID: 2608145538323603570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 186
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14bed6c9dcd4760800000000000000
+      internalID: 7443831830856024495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97833d38ea3ce2a10800000000000000
+      internalID: 1886660448218200185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 59
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6925dacec1e2e60800000000000000
+      internalID: 7939314995946493618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 59
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d133257dd81994330800000000000000
+      internalID: 3695645007623107357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 59
+        width: 83
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a65d6f1fc1b03c0800000000000000
+      internalID: -4392385186015909234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_24
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 59
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66503e1b50121dc40800000000000000
+      internalID: 5535241725358048614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 59
+        width: 83
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa37bc8fb947a0d50800000000000000
+      internalID: 6704299208537240490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 65
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d1f8fd9e74d6f10800000000000000
+      internalID: 2264545257440877838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Senran no Samurai Kingdom JPN - Yoshihiro Shimazu_27
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 75
+        width: 88
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abe484e5bc32db00800000000000000
+      internalID: 851810031447108521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
