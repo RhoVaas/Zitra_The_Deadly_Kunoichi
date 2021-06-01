@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Suelo
   - Arma
+  - Enemigo
   layers:
   - Default
   - TransparentFX
