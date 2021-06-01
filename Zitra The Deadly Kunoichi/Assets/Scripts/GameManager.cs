@@ -19,6 +19,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.02f,0) * Time.deltaTime; 
+        fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.02f,0) * Time.deltaTime;
     }
 }
