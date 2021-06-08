@@ -30,7 +30,16 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.4
+        time: 0.26666668
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.53333336
         value: 1
         inSlope: Infinity
         outSlope: Infinity
@@ -49,7 +58,9 @@ AnimationClip:
   - curve:
     - time: 0
       value: {fileID: -6564354933792440816, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
-    - time: 0.4
+    - time: 0.26666668
+      value: {fileID: 9053934403705014034, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
+    - time: 0.53333336
       value: {fileID: 9053934403705014034, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
     attribute: m_Sprite
     path: 
@@ -79,12 +90,13 @@ AnimationClip:
     pptrCurveMapping:
     - {fileID: -6564354933792440816, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
     - {fileID: 9053934403705014034, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
+    - {fileID: 9053934403705014034, guid: 6be62b32cce1ca14b88dc2d3cacb0f69, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.46666667
+    m_StopTime: 0.6
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -113,7 +125,16 @@ AnimationClip:
         inWeight: 0
         outWeight: 0
       - serializedVersion: 3
-        time: 0.4
+        time: 0.26666668
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 103
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.53333336
         value: 1
         inSlope: Infinity
         outSlope: Infinity

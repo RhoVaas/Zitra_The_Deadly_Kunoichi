@@ -8,18 +8,24 @@ public class JugadorHealth : MonoBehaviour
     public float maximoSalud;
     bool esInmune;
     public float inmunityTime;
-    //Blink material;
+    Blink material;
     SpriteRenderer sprite;
+    public float knockbackForceX;
+	public float knockbackForceY;
+    Rigidbody2D rb;
+    //private Animator animator;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
+        //animator = this.GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
-        //material = GetComponent<Blink>;
+        rb = GetComponent<Rigidbody2D>();
+        material = GetComponent<Blink>();
         salud = maximoSalud;
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if(salud > maximoSalud){
@@ -31,6 +37,19 @@ public class JugadorHealth : MonoBehaviour
         if (collision.CompareTag("Enemigo") && !esInmune)
         {
             salud -= collision.GetComponent<SamuraiScript>().dañoHecho;
+
+            if (collision.transform.position.x > transform.position.x)
+			{
+				rb.AddForce(new Vector2(-knockbackForceX, knockbackForceY), ForceMode2D.Force);
+
+
+			}
+			else
+			{
+				rb.AddForce(new Vector2 (knockbackForceX, knockbackForceY), ForceMode2D.Force);
+                
+			}
+
             StartCoroutine(Inmunidad());
             if (salud <= 0)
             {
@@ -42,9 +61,9 @@ public class JugadorHealth : MonoBehaviour
 
     IEnumerator Inmunidad(){
         esInmune = true;
-        //sprite.material = material.blink;
+        sprite.material = material.blink;
         yield return new WaitForSeconds(inmunityTime);
-        //sprite.material = material.original;
+        sprite.material = material.original;
         esInmune = false;
     }
 }

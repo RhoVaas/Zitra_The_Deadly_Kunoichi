@@ -7,8 +7,11 @@ public class SamuraiScript : MonoBehaviour
 	public GameObject Jugador;
 	private Animator animator;
 	public float healthPoints;
-	public float dañoHecho;
 	private float LastAttack;
+	public float dañoHecho;
+	public float velocidad;
+	public float knockbackForceX;
+	public float knockbackForceY;
 
 	private void Update()
 	{
