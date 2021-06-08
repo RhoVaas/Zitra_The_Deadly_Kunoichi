@@ -18,7 +18,7 @@ public class Jugador : MonoBehaviour
     void Start()
     {
         animator = this.GetComponent<Animator>();
-        rigidbody2d = GetComponent<Rigidbody2D>();
+        rigidbody2d = this.GetComponent<Rigidbody2D>();
         saltosHechos = 0;
         
     }

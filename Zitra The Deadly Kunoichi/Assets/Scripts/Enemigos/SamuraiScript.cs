@@ -20,6 +20,8 @@ public class SamuraiScript : MonoBehaviour
 		if (direction.x >= 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 		else transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
 
+		if (Time.time > LastAttack + 0.25f) animator.SetBool("samuraiAtaca", false);
+
 		float distance = Mathf.Abs(Jugador.transform.position.x - transform.position.x);
 
 		if (distance < 1.0f && Time.time > LastAttack + 0.25f)

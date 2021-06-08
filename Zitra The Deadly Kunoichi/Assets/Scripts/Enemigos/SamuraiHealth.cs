@@ -12,10 +12,10 @@ public class SamuraiHealth : MonoBehaviour
 	Rigidbody2D rb;
 
 	private void Start(){
-		sprite = GetComponent<SpriteRenderer>();
-		rb = GetComponent<Rigidbody2D>();
-		material = GetComponent<Blink>();
-		samurai = GetComponent<SamuraiScript>();
+		sprite = this.GetComponent<SpriteRenderer>();
+		rb = this.GetComponent<Rigidbody2D>();
+		material = this.GetComponent<Blink>();
+		samurai = this.GetComponent<SamuraiScript>();
 	}
 
 	private void OnTriggerEnter2D(Collider2D collision){
