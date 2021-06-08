@@ -7,11 +7,12 @@ public class SamuraiScript : MonoBehaviour
 	public GameObject Jugador;
 	private Animator animator;
 	public float healthPoints;
-
+	public float dañoHecho;
 	private float LastAttack;
 
 	private void Update()
 	{
+		animator = this.GetComponent<Animator>();
 		Vector3 direction = Jugador.transform.position - transform.position;
 		if (direction.x >= 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 		else transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);

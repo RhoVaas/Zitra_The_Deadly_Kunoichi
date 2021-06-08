@@ -12,12 +12,12 @@ public class Jugador : MonoBehaviour
     private float LastAtaque;
     private float Horizontal;
     int saltosHechos;
-    int limiteSaltos = 2;
+    int limiteSaltos = 1;
 
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
+        animator = this.GetComponent<Animator>();
         rigidbody2d = GetComponent<Rigidbody2D>();
         saltosHechos = 0;
         
