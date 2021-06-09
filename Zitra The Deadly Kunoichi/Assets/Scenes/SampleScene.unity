@@ -1440,7 +1440,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -6
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.325, y: 0.325, z: 0}
   m_MaxChunkCount: 16
@@ -6366,8 +6366,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66882fa8b81d83040968141a62af32e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  salud: 30
-  maximoSalud: 10000
+  salud: 1000000
+  maximoSalud: 1000000
   inmunityTime: 0.5
   knockbackForceX: 0
   knockbackForceY: 0
@@ -77911,7 +77911,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7360498004619408117, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
       propertyPath: healthPoints
-      value: 10
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7360498004619408117, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
       propertyPath: knockbackForceX
