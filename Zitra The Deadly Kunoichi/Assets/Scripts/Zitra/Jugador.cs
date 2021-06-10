@@ -73,6 +73,11 @@ public class Jugador : MonoBehaviour
             saltosHechos = 0;
             animator.SetBool("estaSaltando", false);
         }
+        /*else if (collision.gameObject.tag == "Finish")
+        {
+            
+            //SceneManager.LoadScene("Menu");
+        }*/
     }
 
 }
