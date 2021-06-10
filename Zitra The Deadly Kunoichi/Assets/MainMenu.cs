@@ -10,6 +10,16 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
     }
 
+    public void Instructions()
+    {
+        SceneManager.LoadScene("Instructions");
+    }
+
+    public void Atrás()
+    {
+        SceneManager.LoadScene("Menu");
+    }
+
     public void QuitGame()
    {
         Debug.Log("QUIT!");

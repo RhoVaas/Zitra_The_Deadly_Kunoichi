@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     //public GameObject col;
     public Renderer fondo;
-    // Start is called before the first frame update
+    
     void Start()
     {
         //Creacion de mapa
@@ -16,7 +16,7 @@ public class GameManager : MonoBehaviour
         }*/
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.02f,0) * Time.deltaTime;
