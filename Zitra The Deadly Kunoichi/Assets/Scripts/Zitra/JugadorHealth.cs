@@ -66,6 +66,19 @@ public class JugadorHealth : MonoBehaviour
             }
         }
 
+        if(collision.gameObject.tag == "Spikes"){
+            salud -= 5;
+            if (collision.transform.position.x > transform.position.x)
+			{
+				rb.AddForce(new Vector2(-knockbackForceX, knockbackForceY), ForceMode2D.Force);
+			}
+			else
+			{
+				rb.AddForce(new Vector2 (knockbackForceX, knockbackForceY), ForceMode2D.Force);   
+			}
+            StartCoroutine(Inmunidad());
+        }
+
         if(collision.CompareTag("Respawn")){
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 

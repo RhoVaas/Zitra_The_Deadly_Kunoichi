@@ -2,26 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GeneralSamuraiscrip : MonoBehaviour
+public class GeneralSamuraiScript : MonoBehaviour
 {
     public GameObject Jugador;
 	private Animator animator;
     public float healthPoints;
     private float LastAttack;
+    public float dañoHecho;
+	public float velocidad;
+	public float knockbackForceX;
+	public float knockbackForceY;
 
-    // Start is called before the first frame update
-    void Start()
+    private void Update()
     {
-        
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
+        animator = this.GetComponent<Animator>();
         Vector3 direction = Jugador.transform.position - transform.position;
 		if (direction.x >= 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 		else transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
+
+        if (Time.time > LastAttack + 0.25f) animator.SetBool("generalAtaca", false);
 
 		float distance = Mathf.Abs(Jugador.transform.position.x - transform.position.x);
 
