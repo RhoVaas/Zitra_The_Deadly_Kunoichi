@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class JugadorHealth : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class JugadorHealth : MonoBehaviour
 	public float knockbackForceY;
     Rigidbody2D rb;
     //private Animator animator;
+    
 
     
     void Start()
@@ -31,6 +33,12 @@ public class JugadorHealth : MonoBehaviour
         if(salud > maximoSalud){
             salud = maximoSalud;
         }
+
+        else if(salud < 1){
+            
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision){
@@ -56,6 +64,11 @@ public class JugadorHealth : MonoBehaviour
                 //game over
                 print("Player dead");
             }
+        }
+
+        if(collision.CompareTag("Respawn")){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
         }
     }
 

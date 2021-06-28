@@ -7,7 +7,18 @@ public class GameManager : MonoBehaviour
 {
     //public GameObject col;
     public Renderer fondo;
-    
+    private static GameManager instance;
+    public Vector2 lastCheckPointPos;
+
+    /*void Awake() {
+        if(instance == null){
+            instance = this;
+            DontDestroyOnLoad(instance);
+        }else{
+            //Destroy(gameObject);
+        }
+    }*/
+
     void Start()
     {
         
