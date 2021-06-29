@@ -81111,6 +81111,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 188032189}
     m_Modifications:
+    - target: {fileID: 7360498004619408112, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7360498004619408113, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
       propertyPath: m_Mass
       value: 100
@@ -81205,7 +81209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7360498004619408117, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
       propertyPath: radioVision
-      value: 5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7360498004619408117, guid: de4be8ffc021f8c4bb10d03d849010b7, type: 3}
       propertyPath: healthPoints

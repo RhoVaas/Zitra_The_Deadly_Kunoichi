@@ -35,9 +35,9 @@ public class SamuraiHealth : MonoBehaviour
 			StartCoroutine(Damager());
 
             if (samurai.healthPoints <= 0){
-				animator.SetBool("samuraiMuerte", true);
+				//animator.SetBool("samuraiMuerte", true);
 				//Instantiate(efectoMuerte, transform.position, Quaternion.identity);
-                //Destroy(gameObject);
+                Destroy(gameObject);
             }
 		}
 	}

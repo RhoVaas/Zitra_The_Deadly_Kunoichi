@@ -14,6 +14,7 @@ public class JugadorHealth : MonoBehaviour
     public float knockbackForceX;
 	public float knockbackForceY;
     Rigidbody2D rb;
+    //SamuraiScript samurai;
     //private Animator animator;
     
 
@@ -50,22 +51,14 @@ public class JugadorHealth : MonoBehaviour
             if (collision.transform.position.x > transform.position.x)
 			{
 				rb.AddForce(new Vector2(-knockbackForceX, knockbackForceY), ForceMode2D.Force);
-
-
 			}
 			else
 			{
-				rb.AddForce(new Vector2 (knockbackForceX, knockbackForceY), ForceMode2D.Force);
-                
+				rb.AddForce(new Vector2 (knockbackForceX, knockbackForceY), ForceMode2D.Force);      
 			}
 
             StartCoroutine(Inmunidad());
-            //if (salud <= 0)
-            //{
-                //game over
-                //GameOverScreen.Setup();
-                //print("Player dead");
-            //}
+            
         }
 
         if(collision.gameObject.tag == "Spikes"){
