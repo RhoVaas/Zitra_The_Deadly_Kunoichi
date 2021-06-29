@@ -14,7 +14,6 @@ public class JugadorHealth : MonoBehaviour
     public float knockbackForceX;
 	public float knockbackForceY;
     Rigidbody2D rb;
-    GameOverScreen GameOverScreen;
     //private Animator animator;
     
 
@@ -37,7 +36,8 @@ public class JugadorHealth : MonoBehaviour
 
         else if(salud < 1){
             
-            GameOverScreen.Setup();
+            //GameOverScreen.Setup();
+            SceneManager.LoadScene("GameOver");
         }
 
     }
