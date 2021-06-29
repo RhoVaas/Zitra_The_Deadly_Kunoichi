@@ -14,6 +14,7 @@ public class JugadorHealth : MonoBehaviour
     public float knockbackForceX;
 	public float knockbackForceY;
     Rigidbody2D rb;
+    public GameManager gameManager;
     //private Animator animator;
     
 
@@ -35,6 +36,7 @@ public class JugadorHealth : MonoBehaviour
         }
 
         else if(salud < 1){
+            //Si zitra muere, te manda a la pantalla de game over
             
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
@@ -81,7 +83,6 @@ public class JugadorHealth : MonoBehaviour
 
         if(collision.CompareTag("Respawn")){
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
         }
     }
 

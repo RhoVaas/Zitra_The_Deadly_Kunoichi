@@ -10,6 +10,7 @@ public class GameManager : MonoBehaviour
     private static GameManager instance;
     public Vector2 lastCheckPointPos;
 
+    //Intento de Checkpoint
     /*void Awake() {
         if(instance == null){
             instance = this;
@@ -34,4 +35,9 @@ public class GameManager : MonoBehaviour
         Debug.Log("Nivel terminado!");
         SceneManager.LoadScene("Menu");
     }
+
+    public void GameOver(){
+        Debug.Log("Nivel terminado!");
+    }
+
 }

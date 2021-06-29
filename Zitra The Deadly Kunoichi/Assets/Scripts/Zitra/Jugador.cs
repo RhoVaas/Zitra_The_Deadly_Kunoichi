@@ -15,7 +15,7 @@ public class Jugador : MonoBehaviour
     int saltosHechos;
     int limiteSaltos = 1;
 
-    // Start is called before the first frame update
+   
     void Start()
     {
         animator = this.GetComponent<Animator>();
@@ -24,7 +24,7 @@ public class Jugador : MonoBehaviour
         
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         Horizontal = Input.GetAxisRaw("Horizontal");
