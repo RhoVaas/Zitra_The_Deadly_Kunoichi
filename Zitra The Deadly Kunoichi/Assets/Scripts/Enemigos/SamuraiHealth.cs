@@ -5,17 +5,19 @@ using UnityEngine;
 public class SamuraiHealth : MonoBehaviour
 {
 	public bool esHerido;
-	public GameObject efectoMuerte;
+	//public GameObject efectoMuerte;
     SamuraiScript samurai;
 	SpriteRenderer sprite;
 	Blink material;
 	Rigidbody2D rb;
+	Animator animator;
 
 	private void Start(){
 		sprite = this.GetComponent<SpriteRenderer>();
 		rb = this.GetComponent<Rigidbody2D>();
 		material = this.GetComponent<Blink>();
 		samurai = this.GetComponent<SamuraiScript>();
+		animator = this.GetComponent<Animator>();
 	}
 
 	private void OnTriggerEnter2D(Collider2D collision){
@@ -33,8 +35,9 @@ public class SamuraiHealth : MonoBehaviour
 			StartCoroutine(Damager());
 
             if (samurai.healthPoints <= 0){
+				animator.SetBool("samuraiMuerte", true);
 				//Instantiate(efectoMuerte, transform.position, Quaternion.identity);
-                Destroy(gameObject);
+                //Destroy(gameObject);
             }
 		}
 	}
