@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class CheckPoints : MonoBehaviour
 {
-    private GameManager gm;
-
     void Start(){
-        gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameManager>();
+        
     }
 
-    void OnTriggerEnter2D(Collider2D other){
-        if(other.CompareTag("Player")){
-            gm.lastCheckPointPos = transform.position;
+    void OnTriggerEnter2D(Collider2D coll){
+        if(coll.CompareTag("Player")){
+           coll.GetComponent<JugadorPos>().ReachCheckpoint(transform.position.x, transform.position.y);
         }
     }
 }

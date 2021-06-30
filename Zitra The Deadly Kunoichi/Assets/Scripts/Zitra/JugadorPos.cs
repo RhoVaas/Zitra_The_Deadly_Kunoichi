@@ -5,13 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class JugadorPos : MonoBehaviour
 {
-    private GameManager gm;
+    private float checkpointX, checkpointY;
 
-    // Start is called before the first frame update
     void Start()
     {
-        gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameManager>();
-        transform.position = gm.lastCheckPointPos;
+        if(PlayerPrefs.GetFloat("checkpointX") != 0){
+            transform.position = (new Vector2(PlayerPrefs.GetFloat("checkpointX"),PlayerPrefs.GetFloat("checkpointY")));
+        }
+    }
+
+    public void ReachCheckpoint(float x, float y){
+        PlayerPrefs.SetFloat("checkpointX", x);
+        PlayerPrefs.SetFloat("checkpointY", y);
     }
 
     // Update is called once per frame
