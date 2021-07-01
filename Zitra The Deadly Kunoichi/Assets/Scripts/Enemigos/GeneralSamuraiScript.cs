@@ -74,11 +74,13 @@ public class GeneralSamuraiScript : MonoBehaviour
 					transform.Translate(Vector3.right * velocidad * Time.deltaTime);
 					transform.rotation = Quaternion.Euler(0,0,0);
 					Atacar();
+					LastAttack = Time.time;
 				}else{
 					animator.SetBool("generalCorre", true);
 					transform.Translate(Vector3.right * velocidad * Time.deltaTime);
 					transform.rotation = Quaternion.Euler(0,180,0);
 					Atacar();
+					LastAttack = Time.time;
 				}
 			}
 			else{

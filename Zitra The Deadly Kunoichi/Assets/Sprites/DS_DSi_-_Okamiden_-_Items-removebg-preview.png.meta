@@ -1,0 +1,5580 @@
+fileFormatVersion: 2
+guid: a8b1240a6599e534091e3a7e5eba3943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2193610488131637596
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_0
+  - first:
+      213: -5363648849879939438
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_1
+  - first:
+      213: -7831367211651165787
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_2
+  - first:
+      213: 6798115089684738028
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_3
+  - first:
+      213: 3597365544047776714
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_4
+  - first:
+      213: 6656088022126537540
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_5
+  - first:
+      213: -7974401771188544829
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_6
+  - first:
+      213: 4377610740655658305
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_7
+  - first:
+      213: 3256784935821373994
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_8
+  - first:
+      213: 1365816165682353524
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_9
+  - first:
+      213: -2103217234792121363
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_10
+  - first:
+      213: 497470359231980254
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_11
+  - first:
+      213: 3721187092250645235
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_12
+  - first:
+      213: -407027491504661487
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_13
+  - first:
+      213: 2823257236621530826
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_14
+  - first:
+      213: -6424381974964420749
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_15
+  - first:
+      213: -49576914208175333
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_16
+  - first:
+      213: 6244989504010298880
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_17
+  - first:
+      213: 7311226340676814382
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_18
+  - first:
+      213: 2970765118280835517
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_19
+  - first:
+      213: -5802881346968333762
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_20
+  - first:
+      213: 5115357131876420175
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_21
+  - first:
+      213: 2565056744099111327
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_22
+  - first:
+      213: 365386047290609166
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_23
+  - first:
+      213: -8538034705942999954
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_24
+  - first:
+      213: 2736834220146707008
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_25
+  - first:
+      213: 3781461492646249398
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_26
+  - first:
+      213: 5269003046392819752
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_27
+  - first:
+      213: -8576758603428746628
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_28
+  - first:
+      213: -1780229250572790182
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_29
+  - first:
+      213: -8377427569835736125
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_30
+  - first:
+      213: -2912094330298819261
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_31
+  - first:
+      213: 3505950622931809558
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_32
+  - first:
+      213: 8173877062141532716
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_33
+  - first:
+      213: 2686026848830835410
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_34
+  - first:
+      213: -6963457150060679328
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_35
+  - first:
+      213: -4849098840398470844
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_36
+  - first:
+      213: -1838605160148844052
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_37
+  - first:
+      213: -6774242520212697172
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_38
+  - first:
+      213: -7466280259122491778
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_39
+  - first:
+      213: 7805337900070193261
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_40
+  - first:
+      213: -543654090398412353
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_41
+  - first:
+      213: 7224234975862669723
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_42
+  - first:
+      213: 4817473357361980334
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_43
+  - first:
+      213: -709842608378436950
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_44
+  - first:
+      213: 2452300716361488581
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_45
+  - first:
+      213: 6694038297601806789
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_46
+  - first:
+      213: 8198532561117054790
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_47
+  - first:
+      213: 9067413165626649007
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_48
+  - first:
+      213: -4984173906813312193
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_49
+  - first:
+      213: 4697491687805338492
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_50
+  - first:
+      213: 5370518236902526475
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_51
+  - first:
+      213: 9091243615999550608
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_52
+  - first:
+      213: -5050797537664612844
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_53
+  - first:
+      213: -5317095304347657821
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_54
+  - first:
+      213: -7796285806357237555
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_55
+  - first:
+      213: 7592278470644330817
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_56
+  - first:
+      213: 5607331934244352154
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_57
+  - first:
+      213: -4525994416711516648
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_58
+  - first:
+      213: 7397762299068700824
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_59
+  - first:
+      213: -7516830469379037548
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_60
+  - first:
+      213: -4023276173377831951
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_61
+  - first:
+      213: 6907922814157118068
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_62
+  - first:
+      213: 5377575904067801865
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_63
+  - first:
+      213: -7118495681781549822
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_64
+  - first:
+      213: -3493083322784135985
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_65
+  - first:
+      213: -3376426527285621587
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_66
+  - first:
+      213: 2584004662452056816
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_67
+  - first:
+      213: -2226387934783731854
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_68
+  - first:
+      213: 5531260360842161452
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_69
+  - first:
+      213: -2687056662160357002
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_70
+  - first:
+      213: -5866388955453950620
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_71
+  - first:
+      213: -3078380297522236518
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_72
+  - first:
+      213: -7732672206734490616
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_73
+  - first:
+      213: 8900415667865774792
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_74
+  - first:
+      213: 8584796008773416609
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_75
+  - first:
+      213: 7694205937393910290
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_76
+  - first:
+      213: 8886368231288830397
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_77
+  - first:
+      213: -1235916083442501973
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_78
+  - first:
+      213: -4368299637499750393
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_79
+  - first:
+      213: -8034270651576197908
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_80
+  - first:
+      213: -286813299198745035
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_81
+  - first:
+      213: 1673445552758696042
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_82
+  - first:
+      213: -1077721971884898928
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_83
+  - first:
+      213: -7167533780568371705
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_84
+  - first:
+      213: -7017313287446797715
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_85
+  - first:
+      213: 7398922977509650414
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_86
+  - first:
+      213: -4901389038672221815
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_87
+  - first:
+      213: 3140649220494992726
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_88
+  - first:
+      213: 4013929750575141715
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_89
+  - first:
+      213: 1795095485913391761
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_90
+  - first:
+      213: 21517394997466169
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_91
+  - first:
+      213: 7010718798732187268
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_92
+  - first:
+      213: 7166969770515537142
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_93
+  - first:
+      213: -1630077589810096718
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_94
+  - first:
+      213: -2950491138919184291
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_95
+  - first:
+      213: 2512581218195457639
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_96
+  - first:
+      213: -1330797964271734975
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_97
+  - first:
+      213: -2567465000851138832
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_98
+  - first:
+      213: -6771993844546025946
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_99
+  - first:
+      213: -9048920856705611823
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_100
+  - first:
+      213: 7579491948500186432
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_101
+  - first:
+      213: -6371146192398157570
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_102
+  - first:
+      213: -6096777341821507352
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_103
+  - first:
+      213: -1190852197813949636
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_104
+  - first:
+      213: -9113839327009217210
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_105
+  - first:
+      213: -4057002277310427907
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_106
+  - first:
+      213: 5589736405293180311
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_107
+  - first:
+      213: -5023734845257039565
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_108
+  - first:
+      213: -2326032374308347871
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_109
+  - first:
+      213: -8208991184545491349
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_110
+  - first:
+      213: -5395012656576006026
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_111
+  - first:
+      213: -7621818074625036602
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_112
+  - first:
+      213: 4466171835049046323
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_113
+  - first:
+      213: -2894111310171146141
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_114
+  - first:
+      213: 8600375705195774444
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_115
+  - first:
+      213: 892627547324310900
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_116
+  - first:
+      213: -4951860390528466492
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_117
+  - first:
+      213: 7006894900610851819
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_118
+  - first:
+      213: -8153955619934436484
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_120
+  - first:
+      213: 271673594389364958
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_121
+  - first:
+      213: -3566629406149128251
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_122
+  - first:
+      213: 993669618268835121
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_123
+  - first:
+      213: 797824299998080401
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_124
+  - first:
+      213: -4770014519148771062
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_125
+  - first:
+      213: 9113067463720541997
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_126
+  - first:
+      213: -3761509385004840885
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_127
+  - first:
+      213: 476583139757785128
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_128
+  - first:
+      213: -3698452726102402296
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_129
+  - first:
+      213: 7900347001062229923
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_131
+  - first:
+      213: -4432059782081143855
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_132
+  - first:
+      213: -3298724392146154262
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_133
+  - first:
+      213: 3535835513471419035
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_134
+  - first:
+      213: -614065761389569745
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_135
+  - first:
+      213: 6081046622049101605
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_136
+  - first:
+      213: 4781918204100806009
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_138
+  - first:
+      213: -7929273283192595122
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_140
+  - first:
+      213: -1494913070727800663
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_141
+  - first:
+      213: 3195695561483097523
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_142
+  - first:
+      213: 9029064487800549242
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_143
+  - first:
+      213: 5987049770948354659
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_144
+  - first:
+      213: -964311781486099188
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_145
+  - first:
+      213: 1086904114607060822
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_147
+  - first:
+      213: 7738218198485666955
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_148
+  - first:
+      213: 5566914987945120448
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_149
+  - first:
+      213: -5063751313446754395
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_150
+  - first:
+      213: -4718380943337947810
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_151
+  - first:
+      213: 5928748966926711929
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_152
+  - first:
+      213: -4822433823472782393
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_153
+  - first:
+      213: -3366224845540504354
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_154
+  - first:
+      213: 4497391090956532483
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_155
+  - first:
+      213: 5418342507265867764
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_156
+  - first:
+      213: -4995478484150309309
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_157
+  - first:
+      213: -756895713888959215
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_158
+  - first:
+      213: -2280300089107207466
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_159
+  - first:
+      213: -8378324270099474271
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_160
+  - first:
+      213: 5928090736127248329
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_161
+  - first:
+      213: -3132517227590910126
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_162
+  - first:
+      213: -5590823498072852095
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_163
+  - first:
+      213: 2070088105721747242
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_164
+  - first:
+      213: 1755884205030479377
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_165
+  - first:
+      213: 478981222933906656
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_166
+  - first:
+      213: 9078008394619771239
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_167
+  - first:
+      213: 1834414234063857205
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_168
+  - first:
+      213: -2900297851715712160
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_169
+  - first:
+      213: 6413476880034553103
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_170
+  - first:
+      213: -4038036380887616105
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_171
+  - first:
+      213: 4265439989910477580
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_172
+  - first:
+      213: -5270600397236006874
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_173
+  - first:
+      213: -5822710799755963656
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_174
+  - first:
+      213: 255052367573893471
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_175
+  - first:
+      213: -3376421852551091221
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_177
+  - first:
+      213: 1459922084594907980
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_178
+  - first:
+      213: -3222374725782639707
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_179
+  - first:
+      213: -7840305736179674599
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_180
+  - first:
+      213: -4721119474869909056
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_181
+  - first:
+      213: -6759510007639293888
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_182
+  - first:
+      213: -338585862520982900
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_183
+  - first:
+      213: 2392591613785572145
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_184
+  - first:
+      213: -857324549464336593
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_185
+  - first:
+      213: -9028245341289533221
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_186
+  - first:
+      213: 4487243855616160699
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_187
+  - first:
+      213: -6362277074220987027
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_188
+  - first:
+      213: 435994730835039461
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_189
+  - first:
+      213: -1943547421027023438
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_190
+  - first:
+      213: -8768898008290217008
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_191
+  - first:
+      213: 9145819872686371460
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_192
+  - first:
+      213: -5931609256378556190
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_193
+  - first:
+      213: 896627642917906158
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_194
+  - first:
+      213: -5767608853246270917
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_195
+  - first:
+      213: -5802207507277531464
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_196
+  - first:
+      213: -2845226192345457331
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_197
+  - first:
+      213: 7731366527944341006
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_198
+  - first:
+      213: 357053043610179663
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_199
+  - first:
+      213: -4971438263041388283
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_200
+  - first:
+      213: 1804818685805417473
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_201
+  - first:
+      213: 694872560396227293
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_202
+  - first:
+      213: -105708500727875783
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_203
+  - first:
+      213: 3955626331378233311
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_204
+  - first:
+      213: -8333645107302611765
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_205
+  - first:
+      213: -7985799276028143548
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_206
+  - first:
+      213: -2582866919932944822
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_207
+  - first:
+      213: 8861306545221485605
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_208
+  - first:
+      213: -5962785078695379291
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_209
+  - first:
+      213: 2610736190726666787
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_210
+  - first:
+      213: 3442384595702094354
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_211
+  - first:
+      213: -3572977472948536398
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_212
+  - first:
+      213: 1891429132872186432
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_213
+  - first:
+      213: 4344173378620951804
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_214
+  - first:
+      213: -5325822751950288418
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_215
+  - first:
+      213: 5396956669351122017
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_216
+  - first:
+      213: 3766146199883623796
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_217
+  - first:
+      213: 2044968993276578715
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_218
+  - first:
+      213: -8570415612937426854
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_219
+  - first:
+      213: -1627776585983281697
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_220
+  - first:
+      213: -7133858221332680132
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_221
+  - first:
+      213: -6184705338407346392
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_222
+  - first:
+      213: 9149720876749135431
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_223
+  - first:
+      213: 8345728161653087171
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_224
+  - first:
+      213: -5494610756055843712
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_225
+  - first:
+      213: 5371844164952541616
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_226
+  - first:
+      213: 3211576469716356302
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_227
+  - first:
+      213: -4628414435869073701
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_228
+  - first:
+      213: -8750697614652916899
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_229
+  - first:
+      213: 1688236025284424485
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_230
+  - first:
+      213: 5212352091787031699
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_231
+  - first:
+      213: 6906027997433889567
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_232
+  - first:
+      213: 1440294118579467378
+    second: DS_DSi_-_Okamiden_-_Items-removebg-preview_233
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 561
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aea75f12eabe81e0800000000000000
+      internalID: -2193610488131637596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 499
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29649f2f9cd7095b0800000000000000
+      internalID: -5363648849879939438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 533
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a114eb6305615390800000000000000
+      internalID: -7831367211651165787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 536
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa1e6f7a1c75e50800000000000000
+      internalID: 6798115089684738028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 362
+        width: 74
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3923417e86ce130800000000000000
+      internalID: 3597365544047776714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 502
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba5986acc2f5c50800000000000000
+      internalID: 6656088022126537540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 573
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9f0cd6db355190800000000000000
+      internalID: -7974401771188544829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 544
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14517b966c560cc30800000000000000
+      internalID: 4377610740655658305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f979d4ac623d20800000000000000
+      internalID: 3256784935821373994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759bf7f09a54f210800000000000000
+      internalID: 1365816165682353524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 501
+        width: 9
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb7cba711fdfc2e0800000000000000
+      internalID: -2103217234792121363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 550
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ee40f7ae57e600800000000000000
+      internalID: 497470359231980254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 537
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25e58d1ff44a330800000000000000
+      internalID: 3721187092250645235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 550
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cdb0b27a2f95af0800000000000000
+      internalID: -407027491504661487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 549
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6906a9f793e2720800000000000000
+      internalID: 2823257236621530826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 549
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb2d0b1a208d6a0800000000000000
+      internalID: -6424381974964420749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 549
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bcf872f0edf4ff0800000000000000
+      internalID: -49576914208175333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 548
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a394ddd8aaa650800000000000000
+      internalID: 6244989504010298880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 549
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26458cce91b67560800000000000000
+      internalID: 7311226340676814382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 549
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db12042a2274a3920800000000000000
+      internalID: 2970765118280835517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 518
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325630f826087fa0800000000000000
+      internalID: -5802881346968333762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 516
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a41c885366df640800000000000000
+      internalID: 5115357131876420175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 518
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916fbcb489e89320800000000000000
+      internalID: 2565056744099111327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 516
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e04a29cac121500800000000000000
+      internalID: 365386047290609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 432
+        width: 10
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8f40ebaec28980800000000000000
+      internalID: -8538034705942999954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 515
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4afc09303bf520800000000000000
+      internalID: 2736834220146707008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 515
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38ff841337a7430800000000000000
+      internalID: 3781461492646249398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 513
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820f1b4ba524f1940800000000000000
+      internalID: 5269003046392819752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 514
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aaa56ed7b39f880800000000000000
+      internalID: -8576758603428746628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 514
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5659dcbdea5b47e0800000000000000
+      internalID: -1780229250572790182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 515
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38060c2066dbb80800000000000000
+      internalID: -8377427569835736125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1c12b2a92697d0800000000000000
+      internalID: -2912094330298819261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 480
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f8e72483a7a030800000000000000
+      internalID: 3505950622931809558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ad8a681e17f6170800000000000000
+      internalID: 8173877062141532716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 480
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da49b5103fa64520800000000000000
+      internalID: 2686026848830835410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 480
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06faaf1bd94dc5f90800000000000000
+      internalID: -6963457150060679328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 481
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4416a49db4a84bcb0800000000000000
+      internalID: -4849098840398470844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 499
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c0232956fb76e0800000000000000
+      internalID: -1838605160148844052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0060c15e0df1a0800000000000000
+      internalID: -6774242520212697172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 480
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e0e7199a1726890800000000000000
+      internalID: -7466280259122491778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c3953771225c60800000000000000
+      internalID: 7805337900070193261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb15d153c7d8478f0800000000000000
+      internalID: -543654090398412353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 480
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b914f365f63a14460800000000000000
+      internalID: 7224234975862669723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 475
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea328749e7a1bd240800000000000000
+      internalID: 4817473357361980334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2aa2998e12626f0800000000000000
+      internalID: -709842608378436950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 446
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c899293282580220800000000000000
+      internalID: 2452300716361488581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c19a697d5006ec50800000000000000
+      internalID: 6694038297601806789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 428
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6470bd83de907c170800000000000000
+      internalID: 8198532561117054790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa960e0ab3ce5dd70800000000000000
+      internalID: 9067413165626649007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 446
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f332f913d38a4dab0800000000000000
+      internalID: -4984173906813312193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 465
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ccfa3dc7d03140800000000000000
+      internalID: 4697491687805338492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 446
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e055ad1e9e78a40800000000000000
+      internalID: 5370518236902526475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 446
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e03ab6e59a2e70800000000000000
+      internalID: 9091243615999550608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 459
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41645175666f7e9b0800000000000000
+      internalID: -5050797537664612844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d57bedf1e536b0800000000000000
+      internalID: -5317095304347657821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 438
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc038a89d570ec390800000000000000
+      internalID: -7796285806357237555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 446
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141f99e1b013d5960800000000000000
+      internalID: 7592278470644330817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 464
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90b65e6fae31dd40800000000000000
+      internalID: 5607331934244352154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 446
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3288ce007031c0800000000000000
+      internalID: -4525994416711516648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 441
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89854c0bd912aa660800000000000000
+      internalID: 7397762299068700824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 431
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49664d3938adea790800000000000000
+      internalID: -7516830469379037548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 430
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7584f2a37a28c0800000000000000
+      internalID: -4023276173377831951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 433
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad6a1233fdddf50800000000000000
+      internalID: 6907922814157118068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 437
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90359aa0bccf0aa40800000000000000
+      internalID: 5377575904067801865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 435
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205324094e5063d90800000000000000
+      internalID: -7118495681781549822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44c9e9933168fc0800000000000000
+      internalID: -3493083322784135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac4fe666f58421d0800000000000000
+      internalID: -3376426527285621587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 407
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f27863cc8a3cd320800000000000000
+      internalID: 2584004662452056816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277000f18f74a11e0800000000000000
+      internalID: -2226387934783731854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 399
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d22380efbf2cc40800000000000000
+      internalID: 5531260360842161452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c590d338a5bad0800000000000000
+      internalID: -2687056662160357002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 365
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46574e39356669ea0800000000000000
+      internalID: -5866388955453950620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9330aaed656745d0800000000000000
+      internalID: -3078380297522236518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040e01f89700b490800000000000000
+      internalID: -7732672206734490616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 396
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae57cb4e0a48b70800000000000000
+      internalID: 8900415667865774792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 413
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6712c5c72532770800000000000000
+      internalID: 8584796008773416609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 412
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c01fc88f47ca60800000000000000
+      internalID: 7694205937393910290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 396
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9794903d8b25b70800000000000000
+      internalID: 8886368231288830397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 412
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b73aced429dee0800000000000000
+      internalID: -1235916083442501973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 412
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081c5abf9ea063c0800000000000000
+      internalID: -4368299637499750393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5477e869808090800000000000000
+      internalID: -8034270651576197908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 379
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a660f2d8050cf0800000000000000
+      internalID: -286813299198745035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 373
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a32b2dd5493710800000000000000
+      internalID: 1673445552758696042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 379
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ca2b93992b01f0800000000000000
+      internalID: -1077721971884898928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 332
+        width: 8
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e0c95700ec78c90800000000000000
+      internalID: -7167533780568371705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 379
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ea109ebe7d9e90800000000000000
+      internalID: -7017313287446797715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 379
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef20f23f314ea660800000000000000
+      internalID: 7398922977509650414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 379
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e2f353a4cafbb0800000000000000
+      internalID: -4901389038672221815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 357
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65526bf73d3d59b20800000000000000
+      internalID: 3140649220494992726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 379
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353576867d754b730800000000000000
+      internalID: 4013929750575141715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 366
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19266c765d579e810800000000000000
+      internalID: 1795095485913391761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 379
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d05de4f17c4000800000000000000
+      internalID: 21517394997466169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 361
+        width: 9
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486d5926a931b4160800000000000000
+      internalID: 7010718798732187268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 379
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9a87b801367360800000000000000
+      internalID: 7166969770515537142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 367
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b55b0f811dc069e0800000000000000
+      internalID: -1630077589810096718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 379
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58c8c701ffbd07d0800000000000000
+      internalID: -2950491138919184291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 345
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766cbd34e4b7ed220800000000000000
+      internalID: 2512581218195457639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 345
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f25c76d4e088de0800000000000000
+      internalID: -1330797964271734975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 344
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6150b4f288e5cd0800000000000000
+      internalID: -2567465000851138832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 345
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c3ba5a7b0502a0800000000000000
+      internalID: -6771993844546025946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 344
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7407f8c66cb6280800000000000000
+      internalID: -9048920856705611823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 328
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0457940f4c3cf2960800000000000000
+      internalID: 7579491948500186432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 345
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef876063b442597a0800000000000000
+      internalID: -6371146192398157570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 261
+        width: 13
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8241a4f45e36ba0800000000000000
+      internalID: -6096777341821507352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 344
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6e494c3e397fe0800000000000000
+      internalID: -1190852197813949636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 334
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64561a55b63258180800000000000000
+      internalID: -9113839327009217210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 346
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc06f77ce1a2b7c0800000000000000
+      internalID: -4057002277310427907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 336
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a19915abb29d40800000000000000
+      internalID: 5589736405293180311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 345
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c3be66cb184ab0800000000000000
+      internalID: -5023734845257039565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 334
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120ea4121e548bfd0800000000000000
+      internalID: -2326032374308347871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 344
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b665ad0c20ec31e80800000000000000
+      internalID: -8208991184545491349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 327
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678fc06a2901125b0800000000000000
+      internalID: -5395012656576006026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 345
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cea25fd7dcd93690800000000000000
+      internalID: -7621818074625036602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 338
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f3f50f970bfd30800000000000000
+      internalID: 4466171835049046323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 310
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368fec8d81d06d7d0800000000000000
+      internalID: -2894111310171146141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 310
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1081b132caa5770800000000000000
+      internalID: 8600375705195774444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756ef26600436c00800000000000000
+      internalID: 892627547324310900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1493df535774bb0800000000000000
+      internalID: -4951860390528466492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 310
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e769b9cd7d3160800000000000000
+      internalID: 7006894900610851819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 311
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73028fa09457de80800000000000000
+      internalID: -8153955619934436484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 311
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08e68d1bd25c300800000000000000
+      internalID: 271673594389364958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 311
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfc401b379c08ec0800000000000000
+      internalID: -3566629406149128251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 311
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d030dc0493acd00800000000000000
+      internalID: 993669618268835121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 310
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6f8a49f0721b00800000000000000
+      internalID: 797824299998080401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 298
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098ea441118dcdb0800000000000000
+      internalID: -4770014519148771062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 311
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f9b3d339e187e70800000000000000
+      internalID: 9113067463720541997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 314
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480d77c42f6ccbc0800000000000000
+      internalID: -3761509385004840885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820043f27d92d9600800000000000000
+      internalID: 476583139757785128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 276
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b571247d47cacc0800000000000000
+      internalID: -3698452726102402296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 297
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a703a85dbba3ad60800000000000000
+      internalID: 7900347001062229923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 300
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db12c93c192e72c0800000000000000
+      internalID: -4432059782081143855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 301
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec463a84a39832d0800000000000000
+      internalID: -3298724392146154262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 271
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92cca47aafc11130800000000000000
+      internalID: 3535835513471419035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2915a781766a77f0800000000000000
+      internalID: -614065761389569745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 279
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52763d91fa7346450800000000000000
+      internalID: 6081046622049101605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975076c5549cc5240800000000000000
+      internalID: 4781918204100806009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5f44c5ff85f190800000000000000
+      internalID: -7929273283192595122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85e298b70014be0800000000000000
+      internalID: -1494913070727800663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 258
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b51e708e24695c20800000000000000
+      internalID: 3195695561483097523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2279405ead4d70800000000000000
+      internalID: 9029064487800549242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e5f1cb06461350800000000000000
+      internalID: 5987049770948354659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 276
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c050ccb3b831e92f0800000000000000
+      internalID: -964311781486099188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 276
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65770189885751f00800000000000000
+      internalID: 1086904114607060822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 274
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c8333e37ca36b60800000000000000
+      internalID: 7738218198485666955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 243
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2544fcfa7a14d40800000000000000
+      internalID: 5566914987945120448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 242
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a6136201f9b9b0800000000000000
+      internalID: -5063751313446754395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7e55f781f48eb0800000000000000
+      internalID: -4718380943337947810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 263
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c712806c5274250800000000000000
+      internalID: 5928748966926711929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 267
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37317ecf5431db0800000000000000
+      internalID: -4822433823472782393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc6778654c841d0800000000000000
+      internalID: -3366224845540504354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 243
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b78787e51f96e30800000000000000
+      internalID: 4497391090956532483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 242
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3bf08dc1d13b40800000000000000
+      internalID: 5418342507265867764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 243
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2d1d29ce7caab0800000000000000
+      internalID: -4995478484150309309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11502a1cb57fe75f0800000000000000
+      internalID: -756895713888959215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2977862fba50e0800000000000000
+      internalID: -2280300089107207466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 230
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8dfa377763abb80800000000000000
+      internalID: -8378324270099474271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7062bbd1fc44250800000000000000
+      internalID: 5928090736127248329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 225
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff6a4ad201784d0800000000000000
+      internalID: -3132517227590910126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 242
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f57366a76962b0800000000000000
+      internalID: -5590823498072852095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 243
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a275e431a2e6abc10800000000000000
+      internalID: 2070088105721747242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 228
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1169f83a1672e5810800000000000000
+      internalID: 1755884205030479377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 243
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4ce0f62eea5a600800000000000000
+      internalID: 478981222933906656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 242
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769535d99809bfd70800000000000000
+      internalID: 9078008394619771239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536eb48d606257910800000000000000
+      internalID: 1834414234063857205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 208
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b08a5687210c7d0800000000000000
+      internalID: -2900297851715712160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 206
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd3a90e3f310950800000000000000
+      internalID: 6413476880034553103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 209
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795f6175e4306f7c0800000000000000
+      internalID: -4038036380887616105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b1c515213e13b30800000000000000
+      internalID: 4265439989910477580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 207
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62017b11dd01bd6b0800000000000000
+      internalID: -5270600397236006874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f217bea063913fa0800000000000000
+      internalID: -5822710799755963656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514d58e6c02a8300800000000000000
+      internalID: 255052367573893471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb63d2d63a8421d0800000000000000
+      internalID: -3376421852551091221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf604a66fa24410800000000000000
+      internalID: 1459922084594907980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab67808243d743d0800000000000000
+      internalID: -3222374725782639707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129d800973a13390800000000000000
+      internalID: -7840305736179674599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 198
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94336e9d63b7eb0800000000000000
+      internalID: -4721119474869909056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 208
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04046f226756132a0800000000000000
+      internalID: -6759510007639293888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 100
+        width: 58
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b772b3f91d4bf0800000000000000
+      internalID: -338585862520982900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13384407561343120800000000000000
+      internalID: 2392591613785572145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d4f35ddb2a14f0800000000000000
+      internalID: -857324549464336593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bc5f12ba35b280800000000000000
+      internalID: -9028245341289533221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 174
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb33e822384e54e30800000000000000
+      internalID: 4487243855616160699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 174
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4274b5b6a4b7a0800000000000000
+      internalID: -6362277074220987027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 173
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45d5fc5e6fc0600800000000000000
+      internalID: 435994730835039461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 174
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ce8dfae12705e0800000000000000
+      internalID: -1943547421027023438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 175
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d33b3898bd9e4680800000000000000
+      internalID: -8768898008290217008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 124
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482fd23b7ba7cee70800000000000000
+      internalID: 9145819872686371460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 175
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0232feec0beada0800000000000000
+      internalID: -5931609256378556190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 4
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6eae73716717c00800000000000000
+      internalID: 896627642917906158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 141
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32abda5e4655ffa0800000000000000
+      internalID: -5767608853246270917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63e97730b6a7fa0800000000000000
+      internalID: -5802207507277531464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 141
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9c9b4ad9b388d0800000000000000
+      internalID: -2845226192345457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 140
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b77605e45b4b60800000000000000
+      internalID: 7731366527944341006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 141
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485b56f9d184f400800000000000000
+      internalID: 357053043610179663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 140
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50112a45d37e10bb0800000000000000
+      internalID: -4971438263041388283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 140
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1045b6b48010c0910800000000000000
+      internalID: 1804818685805417473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 139
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2559e79eea4a900800000000000000
+      internalID: 694872560396227293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 140
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937306cbda2788ef0800000000000000
+      internalID: -105708500727875783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 151
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2bf9c03535e630800000000000000
+      internalID: 3955626331378233311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 139
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44e0fade1f85c80800000000000000
+      internalID: -8333645107302611765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 140
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44855c87eddbc2190800000000000000
+      internalID: -7985799276028143548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 123
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e1a4f8830d72cd0800000000000000
+      internalID: -2582866919932944822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_208
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 97
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52445c98a5fa9fa70800000000000000
+      internalID: 8861306545221485605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_209
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 131
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebc58209eef3da0800000000000000
+      internalID: -5962785078695379291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_210
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32af482bbb23b3420800000000000000
+      internalID: 2610736190726666787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a991f1d8ec5cf20800000000000000
+      internalID: 3442384595702094354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_212
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 106
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfd663beb3a6ec0800000000000000
+      internalID: -3572977472948536398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_213
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 106
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04afbae66c4bf3a10800000000000000
+      internalID: 1891429132872186432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_214
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0963ebaa994c30800000000000000
+      internalID: 4344173378620951804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 106
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94f4dac60e616b0800000000000000
+      internalID: -5325822751950288418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_216
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 97
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16459d81f77d5ea40800000000000000
+      internalID: 5396956669351122017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_217
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 106
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d2040d30a044430800000000000000
+      internalID: 3766146199883623796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_218
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b40f4f670316c10800000000000000
+      internalID: 2044968993276578715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_219
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 107
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5827657864cf0980800000000000000
+      internalID: -8570415612937426854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_220
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5b4c2c1d9f869e0800000000000000
+      internalID: -1627776585983281697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_221
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 99
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3237779eb17ffc90800000000000000
+      internalID: -7133858221332680132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_222
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 105
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f94cf33438b2aa0800000000000000
+      internalID: -6184705338407346392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_223
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 73
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e9b9cf8a65afe70800000000000000
+      internalID: 9149720876749135431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_224
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 72
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5e43ab8bf1d370800000000000000
+      internalID: 8345728161653087171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_225
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 72
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c304a01a83fb3b0800000000000000
+      internalID: -5494610756055843712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_226
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 72
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b940c88ecf9c8a40800000000000000
+      internalID: 5371844164952541616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_227
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc427698cfc19c20800000000000000
+      internalID: 3211576469716356302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_228
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdedbbcc79194cfb0800000000000000
+      internalID: -4628414435869073701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_229
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 67
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b31c5f1e64f8680800000000000000
+      internalID: -8750697614652916899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_230
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523781868b1dd6710800000000000000
+      internalID: 1688236025284424485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_231
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394fa3b7c9ef55840800000000000000
+      internalID: 5212352091787031699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_232
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1303fbbfd327df50800000000000000
+      internalID: 6906027997433889567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS_DSi_-_Okamiden_-_Items-removebg-preview_233
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274730eaed3fcf310800000000000000
+      internalID: 1440294118579467378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

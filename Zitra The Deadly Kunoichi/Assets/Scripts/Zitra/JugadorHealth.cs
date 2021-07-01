@@ -44,7 +44,7 @@ public class JugadorHealth : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D collision){
-        if (collision.CompareTag("Enemigo") && !esInmune)
+        if (collision.CompareTag("Enemigo") && collision.CompareTag("Arma") && !esInmune)
         {
             salud -= collision.GetComponent<SamuraiScript>().dañoHecho;
 

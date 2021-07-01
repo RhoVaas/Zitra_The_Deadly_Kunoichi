@@ -22,7 +22,12 @@ public class GameManager : MonoBehaviour
 
     public void CompleteLevel(){
         Debug.Log("Nivel terminado!");
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("Nivel2");
+    }
+
+    public void CompleteGame(){
+        Debug.Log("Juego terminado!");
+        SceneManager.LoadScene("JuegoCompletado");
     }
 
     public void GameOver(){
