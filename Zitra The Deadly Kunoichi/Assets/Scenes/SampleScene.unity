@@ -6244,6 +6244,7 @@ GameObject:
   - component: {fileID: 673069850}
   - component: {fileID: 673069849}
   - component: {fileID: 673069848}
+  - component: {fileID: 673069852}
   - component: {fileID: 673069851}
   m_Layer: 0
   m_Name: RocaFinal
@@ -6356,6 +6357,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameManager: {fileID: 170059449}
+--- !u!114 &673069852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 673069847}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a1e1986401f474f9115c25bd392303, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &679579452
 GameObject:
   m_ObjectHideFlags: 0

@@ -44,7 +44,22 @@ public class JugadorHealth : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D collision){
-        if (collision.CompareTag("Enemigo") && collision.CompareTag("Arma") && !esInmune)
+        if (collision.CompareTag("Enemigo") && !esInmune)
+        {
+            salud -= collision.GetComponent<SamuraiScript>().dañoHecho;
+
+            if (collision.transform.position.x > transform.position.x)
+			{
+				rb.AddForce(new Vector2(-knockbackForceX, knockbackForceY), ForceMode2D.Force);
+			}
+			else
+			{
+				rb.AddForce(new Vector2 (knockbackForceX, knockbackForceY), ForceMode2D.Force);      
+			}
+
+            StartCoroutine(Inmunidad());
+            
+        }else if (collision.CompareTag("Arma") && !esInmune)
         {
             salud -= collision.GetComponent<SamuraiScript>().dañoHecho;
 
