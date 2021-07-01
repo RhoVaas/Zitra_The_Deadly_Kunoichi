@@ -4,11 +4,14 @@ using UnityEngine;
 
 public class GameFinish : MonoBehaviour
 {
-   public GameManager gameManager;
+    public GameManager gameManager;
 
-   void OnTriggerEnter2D(){
+    void OnTriggerEnter2D(Collider2D collision){
 
-       gameManager.CompleteGame();
+        if (collision.CompareTag("Player")){
+            gameManager.CompleteGame();
+        }
+        
        
    }
 }

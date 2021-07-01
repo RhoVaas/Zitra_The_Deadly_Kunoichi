@@ -6,7 +6,7 @@ public class EndLevel : MonoBehaviour
 {
     public GameManager gameManager;
 
-   void OnTriggerEnter2D(){
+    void OnTriggerEnter2D(){
 
        gameManager.CompleteLevel();
        

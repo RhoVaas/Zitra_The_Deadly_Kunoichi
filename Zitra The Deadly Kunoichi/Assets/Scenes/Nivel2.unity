@@ -1018,6 +1018,14 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 936241000945527661, guid: da0ae282cd9130f499816dc0d6972318, type: 3}
+      propertyPath: m_Size.y
+      value: 3.7466369
+      objectReference: {fileID: 0}
+    - target: {fileID: 936241000945527661, guid: da0ae282cd9130f499816dc0d6972318, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.77358174
+      objectReference: {fileID: 0}
     - target: {fileID: 936241000945527663, guid: da0ae282cd9130f499816dc0d6972318, type: 3}
       propertyPath: m_SortingOrder
       value: 1
@@ -62550,7 +62558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b76d2760ee3244192e7551dd4bb993, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fondo: {fileID: 861442115}
 --- !u!4 &996464096
 Transform:
   m_ObjectHideFlags: 0
@@ -64019,7 +64026,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44b76d2760ee3244192e7551dd4bb993, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fondo: {fileID: 861442115}
 --- !u!4 &1582805145
 Transform:
   m_ObjectHideFlags: 0
@@ -64564,7 +64570,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 0e57b2f9c8142174e9e541450af0b363, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.395
   m_Pitch: 1
   Loop: 0
   Mute: 0

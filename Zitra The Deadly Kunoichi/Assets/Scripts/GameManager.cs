@@ -6,19 +6,8 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     //public GameObject col;
-    public Renderer fondo;
-    private static GameManager instance;
-
-    void Start()
-    {
-        
-    }
-
     
-    void Update()
-    {
-        fondo.material.mainTextureOffset = fondo.material.mainTextureOffset + new Vector2(0.02f,0) * Time.deltaTime;
-    }
+    private static GameManager instance;
 
     public void CompleteLevel(){
         Debug.Log("Nivel terminado!");
